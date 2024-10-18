@@ -1,113 +1,19 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  
-  
   <channel>
-    
-    
-    <title>Mi Podcast</title>
-    
-    
+    <title>Halt & Catch</title>
     <link>https://github.com/danielnunezcano/haltandcatch/</link>
-    
-    
-    <description>Descripción de tu podcast.</description>
-    
-    
+    <description>¡Bienvenidos a Halt & Catch! Subimos dos episodios diarios para mantenerte al tanto de lo último en el mundo de la tecnología. En el primer episodio del día, te traemos las noticias más importantes del ámbito tecnológico: innovaciones, avances y tendencias que están cambiando el mundo. En el segundo episodio, te mantenemos al día con todas las novedades sobre teléfonos móviles: lanzamientos, rumores, análisis y mucho más. ¡No te pierdas ningún detalle y únete a nuestra comunidad de entusiastas de la tecnología!</description>
     <language>es-es</language>
-    
-    
-    <itunes:author>Tu Nombre</itunes:author>
-    
-    
-    <itunes:subtitle>Un podcast sobre tecnología y más.</itunes:subtitle>
-    
-    
-    <itunes:summary>Este es un resumen de tu podcast.</itunes:summary>
-    
-    
+    <itunes:author>Halt And Catch</itunes:author>
+    <itunes:subtitle>Noticias diarias de tecnología y móviles.</itunes:subtitle>
+    <itunes:summary>Halt & Catch es tu fuente diaria de noticias tecnológicas. Todos los días cubrimos las novedades más importantes en tecnología, incluyendo lanzamientos de dispositivos, avances en software, inteligencia artificial, y mucho más. Además, te traemos toda la información que necesitas sobre el mundo de los teléfonos móviles, desde los rumores hasta los análisis más detallados. ¡No te pierdas nuestros episodios para mantenerte al día en este emocionante mundo!</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    
-    
     <itunes:owner>
-      
-      
-      <itunes:name>Tu Nombre</itunes:name>
-      
-      
-      <itunes:email>tu-email@example.com</itunes:email>
-      
-    
+      <itunes:name>Halt And Catch</itunes:name>
+      <itunes:email>haltandcatchia@gmail.com</itunes:email>
     </itunes:owner>
-    
-    
-    <itunes:image href="https://TU_USUARIO.github.io/mi-podcast/caratula.jpg"/>
-    
-    
+    <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg"/>
     <itunes:category text="Technology"/>
-    
-    
-    
-    
-    <item>
-      
-      
-      <title>Episodio 1: Bienvenidos</title>
-      
-      
-      <description>En este episodio de introducción, hablamos sobre el propósito del podcast.</description>
-      
-      
-      <enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio1.mp3" length="12345678" type="audio/mpeg"/>
-      
-      
-      <guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio1.mp3</guid>
-      
-      
-      <pubDate>Mon, 17 Oct 2024 09:00:00 GMT</pubDate>
-      
-      
-      <itunes:duration>00:15:32</itunes:duration>
-      
-    
-    </item>
-    
-
-    
-    
-    <item>
-      
-      
-      <title>Episodio 2: Tecnología y futuro</title>
-      
-      
-      <description>En este episodio, exploramos las tendencias tecnológicas para el futuro.</description>
-      
-      
-      <enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio2.mp3" length="23456789" type="audio/mpeg"/>
-      
-      
-      <guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio2.mp3</guid>
-      
-      
-      <pubDate>Mon, 24 Oct 2024 09:00:00 GMT</pubDate>
-      
-      
-      <itunes:duration>00:30:45</itunes:duration>
-      
-    
-    </item>
-    
-  
-    <item>
-      <title>Episodio 3: Innovaciones tecnológicas</title>
-      <description>En este episodio, hablamos sobre las últimas innovaciones en el mundo de la tecnología.</description>
-      <enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3" length="34567890" type="audio/mpeg"/>
-      <guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3</guid>
-      <pubDate>Fri, 18 Oct 2024 13:59:46 GMT</pubDate>
-      <itunes:duration>00:22:18</itunes:duration>
-    </item>
   </channel>
-  
-
 </rss>
