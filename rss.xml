@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Halt And Catch</title>
@@ -15,5 +15,21 @@
     </itunes:owner>
     <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg"/>
     <itunes:category text="Technology"/>
+    <item>
+      <title>¡De IA a gatos líquidos! Lo más destacado de la semana en tecnología</title>
+      <description>¡Bienvenidos a un nuevo resumen de las noticias más interesantes del mundo tech! En este video, te contamos sobre la inversión de Telefónica en un motor de búsqueda con IA, un experto en audio accidental, cómo elegir el tipo de dato SQL adecuado, un nuevo juego de mesa llamado Crokinole, una función para personalizar resúmenes de audio, una extensión para conectar Postgres y parquet, un abogado especializado en inmigración para startups que responde a preguntas, una herramienta de rotación de imágenes de Adobe impulsada por IA, un tutorial de desarrollo de juegos en Lisp y un estudio que revela que los gatos son casi líquidos. ¡Prepárense para una dosis de innovación, tecnología y entretenimiento!</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3" length="1910421" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3</guid>
+      <pubDate>vie, 18 oct 2024 08:00:47 GMT</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+    </item>
+    <item>
+      <title>El panorama móvil: Android 15, One UI 7, OnePlus 13, iPhone 16 Pro y más</title>
+      <description>¡Hola a todos! En este video, repasamos las últimas noticias del mundo de la tecnología móvil. Hablaremos del lanzamiento estable de Android 15 para los Pixel, el nuevo Infinix Zero Flip, las especulaciones sobre el primer smartphone con Snapdragon 8 Elite en India, el nuevo ColorOS 15 de Oppo, el diseño del OnePlus 13, las nuevas exigencias de la App Store de la UE a los desarrolladores, el éxito de ventas del Pixel 9, el unboxing submarino del Realme GT7 Pro y, por último, comparamos el iPhone 16 Pro con el iPhone 16 Pro Max. ¡No te pierdas las últimas novedades y análisis!</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3" length="1400877" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3</guid>
+      <pubDate>vie, 18 oct 2024 08:10:47 GMT</pubDate>
+      <itunes:duration>00:07:46</itunes:duration>
+    </item>
   </channel>
 </rss>
