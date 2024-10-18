@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Mi Podcast</title>
     <link>https://github.com/danielnunezcano/haltandcatch/</link>
     <description>Descripción de tu podcast.</description>
     <language>es-es</language>
-    <ns0:author>Tu Nombre</ns0:author>
-    <ns0:subtitle>Un podcast sobre tecnología y más.</ns0:subtitle>
-    <ns0:summary>Este es un resumen de tu podcast.</ns0:summary>
-    <ns0:explicit>no</ns0:explicit>
-    <ns0:owner>
-      <ns0:name>Tu Nombre</ns0:name>
-      <ns0:email>tu-email@example.com</ns0:email>
-    </ns0:owner>
-    <ns0:image href="https://TU_USUARIO.github.io/mi-podcast/caratula.jpg" />
-    <ns0:category text="Technology" />
+    <itunes:author>Tu Nombre</itunes:author>
+    <itunes:subtitle>Un podcast sobre tecnología y más.</itunes:subtitle>
+    <itunes:summary>Este es un resumen de tu podcast.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Tu Nombre</itunes:name>
+      <itunes:email>tu-email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://TU_USUARIO.github.io/mi-podcast/caratula.jpg" />
+    <itunes:category text="Technology" />
     
     
     <item>
@@ -23,7 +23,7 @@
       <enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio1.mp3" length="12345678" type="audio/mpeg" />
       <guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio1.mp3</guid>
       <pubDate>Mon, 17 Oct 2024 09:00:00 GMT</pubDate>
-      <ns0:duration>00:15:32</ns0:duration>
+      <itunes:duration>00:15:32</itunes:duration>
     </item>
 
     
@@ -33,8 +33,8 @@
       <enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio2.mp3" length="23456789" type="audio/mpeg" />
       <guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio2.mp3</guid>
       <pubDate>Mon, 24 Oct 2024 09:00:00 GMT</pubDate>
-      <ns0:duration>00:30:45</ns0:duration>
+      <itunes:duration>00:30:45</itunes:duration>
     </item>
 
-  <item><title>Episodio 3: Innovaciones tecnológicas</title><description>En este episodio, hablamos sobre las últimas innovaciones en el mundo de la tecnología.</description><enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3" length="34567890" type="audio/mpeg" /><guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3</guid><pubDate>Fri, 18 Oct 2024 13:48:55 GMT</pubDate><itunes:duration>00:22:18</itunes:duration></item></channel>
+  <item><title>Episodio 3: Innovaciones tecnológicas</title><description>En este episodio, hablamos sobre las últimas innovaciones en el mundo de la tecnología.</description><enclosure url="https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3" length="34567890" type="audio/mpeg" /><guid>https://TU_USUARIO.github.io/mi-podcast/episodes/episodio3.mp3</guid><pubDate>Fri, 18 Oct 2024 13:54:46 GMT</pubDate><itunes:duration>00:22:18</itunes:duration></item></channel>
 </rss>
