@@ -31,5 +31,25 @@
       <pubDate>vie, 18 oct 2024 15:10:47 GMT</pubDate>
       <itunes:duration>00:07:46</itunes:duration>
     </item>
+    <item>
+      <title> Tecnología, Salud y Futuro: Un Repaso a las Noticias Más Importantes </title>
+      <description>¡Prepárate para un viaje alucinante por el mundo de la tecnología! En este vídeo, exploraremos temas que van desde el desarrollo web y el aprendizaje automático hasta la seguridad informática y la investigación médica. Descubriremos las últimas tendencias, aprenderemos sobre herramientas esenciales como GitHub y Terraform, y discutiremos los desafíos que enfrenta la humanidad, como la resistencia bacteriana y la protección del copyright en la era de la IA. ¡Únete a nosotros para una emocionante inmersión en el mundo de la innovación! 
+Links:
+1. https://dev.to/kiran_baliga/a-beginners-guide-to-github-3966
+2. https://dev.to/sane08/vulnerability-research-57ej
+3. https://dev.to/s3cloudhub/mastering-multi-cloud-infrastructure-with-terraform-a-game-changer-for-modern-it-563j
+4. https://dev.to/priyanshu2k3/managing-swap-space-on-linux-3epm
+5. https://dev.to/abhinowww/how-to-build-deep-learning-applications-with-react-using-transformersjs-370a
+6. https://dev.to/ashcodebd/responsive-web-design-where-and-why-you-should-learn-it-3ejl
+7. https://dev.to/vishal_tiwari_114f21d14e5/redux-toolkit-react-thunk-and-react-sagalearn-from-vishal-tiwari-58b
+8. https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html
+9. https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff
+10. https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3" length="3004677" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3</guid>
+      <pubDate>sáb, 19 oct 2024 08:24:11 GMT</pubDate>
+      <itunes:duration>00:16:41</itunes:duration>
+    </item>
   </channel>
 </rss>

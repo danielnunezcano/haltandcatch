@@ -1,0 +1,7 @@
+Catch: Hola Halt.
+
+Halt: Hola Catch. Hoy es 19 de octubre de 2024 y tenemos un programa lleno de noticias que analizar. Desde el lanzamiento del nuevo modelo de lenguaje de IA de Google hasta el escándalo de corrupción en el gobierno, pasando por la creciente preocupación por la inflación,  hablaremos de lo que está dando que hablar.
+
+Catch: Comencemos. 
+{"noticias": [{},{},{},{},{},{},{},{},{},{}]}Ha sido un placer compartir estas noticias con ustedes. Soy Halt, y junto con Catch, les decimos: ¡Hasta la próxima emisión, cuídense! Nos escuchamos mañana a partir de las 8 am con más informativos.
+Catch:¡Hasta mañana!
