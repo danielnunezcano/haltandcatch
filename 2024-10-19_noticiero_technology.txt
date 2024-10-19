@@ -1,7 +1,15 @@
 Catch: Hola Halt.
 
-Halt: Hola Catch. Hoy es 19 de octubre de 2024 y tenemos un programa lleno de noticias que analizar. Desde el lanzamiento del nuevo modelo de lenguaje de IA de Google hasta el escándalo de corrupción en el gobierno, pasando por la creciente preocupación por la inflación,  hablaremos de lo que está dando que hablar.
+Halt: Hola Catch. Bueno, ¿qué tenemos hoy para el público? Parece que hay mucho de qué hablar:  Cuba está en la oscuridad después de un apagón general, tenemos noticias prometedoras sobre un nuevo antibiótico, Penguin Random House se está tomando muy en serio la protección de los derechos de autor, y hay una pregunta bastante importante sobre por qué no tenemos una vacuna para la bacteria  estrep  A, que mata a medio millón de personas al año.  Además de todo esto, parece que hay algunos problemas importantes en el horizonte con respecto a las decisiones, la seguridad, y el acceso a la reparación de los dispositivos.  Y para terminar con una nota más ligera, tenemos una historia sobre un memo de Go Plan9 y escaneos en 3D secretos en la Corte Suprema Francesa.  
 
-Catch: Comencemos. 
+Catch:  ¡Uf! Definitivamente tenemos un montón de cosas para desempacar.  Comencemos. 
+Catch: Hola Halt. 
+
+Halt: Hola Catch. ¿Listo para sumergirnos en las noticias de hoy? Tenemos un día bastante movido. Vamos a hablar sobre el mundo de la programación con Python y Angular, analizar algunas vulnerabilidades de seguridad informática, descubrir una nueva arma contra las bacterias y finalizar con un repaso a la actualidad política con Cuba y el sistema judicial francés.  ¡Comencemos! 
+Catch: Hola Halt.
+
+Halt: Hola Catch. ¿Qué tal? Hoy es 19 de octubre de 2024 y tenemos un montón de noticias que analizar. Empezaremos con [Primer titular] y  [Segundo titular], después pasaremos a  [Tercer titular] y  [Cuarto titular]. Y para terminar, hablaremos de  [Quinto titular].
+
+Catch:  ¡Qué día tan ajetreado! ¡Vamos a ello! 
 {"noticias": [{},{},{},{},{},{},{},{},{},{}]}Ha sido un placer compartir estas noticias con ustedes. Soy Halt, y junto con Catch, les decimos: ¡Hasta la próxima emisión, cuídense! Nos escuchamos mañana a partir de las 8 am con más informativos.
 Catch:¡Hasta mañana!
