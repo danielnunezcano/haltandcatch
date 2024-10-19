@@ -1,3 +1,10 @@
 Catch: Hola Halt.
 
 Halt: Hola Catch. ¿Listo para otro día lleno de noticias? Hoy vamos a hablar de los últimos benchmarks de Qualcomm, la situación tensa entre Estados Unidos y Huawei, los problemas con la batería del iPhone 16 de Apple y las expectativas para el Galaxy S25 Ultra.  ¡Vamos a ello! 
+Catch: Hola Halt.
+
+Halt: Hola Catch. ¡Qué día tan emocionante! Hoy tenemos un montón de noticias que cubrir, desde el nuevo diseño del iPhone 17 hasta el lanzamiento del nuevo sistema operativo de Google y su impacto en el mercado. Hablaremos sobre la guerra por el dominio del mercado de los drones y si la próxima generación de consolas podrá competir con las experiencias de realidad virtual. ¡Prepárate para un paseo salvaje por el mundo de la tecnología!  
+
+Catch: ¡Empecemos! 
+{"noticias": [{},{},{},{},{},{{},{},{{}]}Ha sido un placer compartir estas noticias con ustedes. Soy Halt, y junto con Catch, les decimos: ¡Hasta la próxima emisión, cuídense! Nos escuchamos mañana a partir de las 8 am con más informativos.
+Catch:¡Hasta mañana!
