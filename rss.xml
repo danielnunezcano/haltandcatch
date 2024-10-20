@@ -71,5 +71,65 @@ Links:
       <pubDate>sáb, 19 oct 2024 08:47:58 GMT</pubDate>
       <itunes:duration>00:14:51</itunes:duration>
     </item>
+    <item>
+      <title> ¡Tecnología, Salud y Futuro! - Lo más destacado de la semana </title>
+      <description>¡Hola! En este video, exploramos las últimas tendencias tecnológicas y noticias del mundo de la programación, la inteligencia artificial y la medicina. Desde técnicas para optimizar tu flujo de trabajo hasta el desarrollo de algoritmos que reducen el consumo de energía, cubrimos temas interesantes y relevantes para desarrolladores, estudiantes y cualquier persona interesada en la innovación. ¡Prepárate para una dosis de conocimiento y debates apasionantes! 
+Links:
+1. https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk
+2. https://dev.to/sudhanshu_developer/mastering-state-management-with-the-usereducer-hook-in-react-2mc
+3. https://dev.to/prashantrmishra/minimum-division-operations-to-make-array-non-decreasing-4b5g
+4. https://dev.to/prashantrmishra/count-substrings-with-k-frequency-characters-i-33nj
+5. https://dev.to/gziz/run-autogen-generated-code-in-the-cloud-9bb
+6. https://time.com/7093536/surgeons-apple-vision-pro/
+7. https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9
+8. https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb
+9. https://www.npmjs.com/package/svelte
+10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3139785" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
+      <pubDate>dom, 20 oct 2024 07:03:56 GMT</pubDate>
+      <itunes:duration>00:17:26</itunes:duration>
+    </item>
+    <item>
+      <title>¡iPhone 17, Samsung S25 y más! Lo último en tecnología y rumores. </title>
+      <description>¡Hola a todos! En este video les traigo un resumen de las últimas noticias del mundo de la tecnología, con novedades sobre los próximos iPhones, Samsung Galaxy, Apple TV y mucho más. Desde filtraciones sobre el diseño del iPhone SE 4 hasta los problemas que enfrentan los usuarios del iPhone 16 Pro, ¡no te pierdas este análisis de las últimas tendencias! 
+Links:
+1. https://9to5mac.com/2024/10/19/iphone-se-4-dummy-units/
+2. https://9to5mac.com/2024/10/19/iphone-16-pro-review-one-month-later/
+3. https://www.digitaltrends.com/mobile/apple-iphone-16-pro-max-vs-iphone-14-pro-max/
+4. https://www.phonearena.com/news/marshall-emberton-ii-amazon-deal-41-percent-off_id163888
+5. https://www.digitaltrends.com/mobile/apple-iphone-slim-air-leak-specs-features/
+6. https://www.phonearena.com/news/is-tim-cook-leaving-apple_id163913
+7. https://www.digitaltrends.com/mobile/apple-iphone-16-pro-user-reports-freeze-app-camera-glitch-issue-ios-18/
+8. https://www.digitaltrends.com/mobile/this-samsung-galaxy-s25-ultra-leak-unveils-its-colors/
+9. https://9to5mac.com/2024/10/19/kitcast-2-0/
+10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
+      <pubDate>dom, 20 oct 2024 07:23:08 GMT</pubDate>
+      <itunes:duration>00:14:56</itunes:duration>
+    </item>
+    <item>
+      <title> 🔥  Tech &amp; Trends: Lo Nuevo en IA, Desarrollo y Más  🔥 </title>
+      <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias tecnológicas! Hoy hablamos de modelos de estado-espacio que aprenden en contexto, automatización de respaldo con Ansible, AWS S3 y Cron, configuración de Supabase autohospedada con Authelia y Caddy, pruebas unitarias y UI en React, análisis de confiabilidad de circuitos lógicos con WCCA, diseño de RTC con calibración automática para controladores programables basados en ESP8266, extensiones esenciales de VS Code para programadores principiantes, la utilización de Apple Vision Pro en salas de operaciones, el lanzamiento de Svelte 5 y un nuevo algoritmo que reduce el consumo de energía de la IA en un 95%. ¡Prepárense para un viaje emocionante a través del mundo de la tecnología! 
+Links:
+1. https://dev.to/mikeyoung44/state-space-models-adapt-by-gradient-descent-learning-in-context-241l
+2. https://dev.to/niranyadav/your-current-backup-automation-is-missing-the-key-ansible-aws-s3-and-cron-2mb8
+3. https://dev.to/lmntixdev_9b7c97bf92b3ef7/self-hosted-supabase-setup-with-authelia-and-caddy-4p11
+4. https://dev.to/kkr0423/react-basicsunit-testui-44ff
+5. https://dev.to/zhangzhuyue/use-wcca-to-analyze-the-reliablity-of-transistor-logic-circuit-1mji
+6. https://dev.to/zhangzhuyue/rtc-design-with-automatic-cloud-calibration-for-simple-programmable-controller-based-on-esp8266-2lo9
+7. https://dev.to/dostmd96/5-must-have-vs-code-extensions-for-new-programmers-tools-that-go-beyond-the-basics-4of4
+8. https://time.com/7093536/surgeons-apple-vision-pro/
+9. https://www.npmjs.com/package/svelte
+10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3644253" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
+      <pubDate>dom, 20 oct 2024 09:13:48 GMT</pubDate>
+      <itunes:duration>00:20:14</itunes:duration>
+    </item>
   </channel>
 </rss>
