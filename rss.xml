@@ -151,5 +151,25 @@ Links:
       <pubDate>dom, 20 oct 2024 09:21:11 GMT</pubDate>
       <itunes:duration>00:15:40</itunes:duration>
     </item>
+    <item>
+      <title>🔥🚀  Dominando las Tecnologías del Futuro: De Python a AI, Salesforce y Más! </title>
+      <description>¡Bienvenidos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las mejores prácticas en desarrollo hasta la implementación de inteligencia artificial. Descubriremos trucos para acelerar el desarrollo en Python, aprenderemos a escalar aplicaciones Python con KEDA, y crearemos una característica de &quot;Mostrar contraseña&quot; con HTML, CSS y JavaScript. Además, profundizaremos en el mundo de Salesforce Marketing Cloud, la integración de AI en negocios y la creación de gráficos de precios de acciones con código Python. También analizaremos las mejores prácticas para escribir código limpio y mantenible en JavaScript, aprenderemos Rust de una manera &quot;peligrosa&quot;, y desentrañaremos los misterios de MVCC en PostgreSQL. ¡Acompáñenme en este viaje por el mundo de la tecnología! 
+Links:
+1. https://python.plainenglish.io/10-python-shortcuts-for-faster-development-89e5428762cf?source=rss------programming-5
+2. https://python.plainenglish.io/event-driven-scaling-of-python-applications-in-azure-kubernetes-service-aks-using-keda-d5b2f6cba293?source=rss------programming-5
+3. https://dev.to/wizdomtek/how-to-create-an-advanced-show-password-feature-using-html-css-and-javascript-ndn
+4. https://dev.to/itechcloud_solution_01/best-practices-for-salesforce-marketing-cloud-in-2024-h0f
+5. https://dev.to/laxmi_williams/how-to-transform-your-clients-business-with-ai-integration-services-opo
+6. https://dev.to/dm8ry/python-code-that-generates-a-stock-price-chart-for-the-last-n-days-g8a
+7. https://dev.to/holehuy/learning-aws-dva-day-2-ec2-instance-store-nlh
+8. https://dev.to/wizdomtek/best-practices-for-writing-clean-and-maintainable-code-in-javascript-1phb
+9. https://cliffle.com/p/dangerust/
+10. https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3" length="2750229" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3</guid>
+      <pubDate>lun, 21 oct 2024 08:24:14 GMT</pubDate>
+      <itunes:duration>00:15:16</itunes:duration>
+    </item>
   </channel>
 </rss>
