@@ -191,5 +191,17 @@ Links:
       <pubDate>lun, 21 oct 2024 08:27:11 GMT</pubDate>
       <itunes:duration>00:18:31</itunes:duration>
     </item>
+    <item>
+      <title>¡Automatiza tu Web con Cypress y Domina ChatGPT! </title>
+      <description>¡Hola a todos! En este video, exploramos dos temas candentes en el mundo del desarrollo web: Cypress para automatizar pruebas de interfaz de usuario de forma rápida y fácil, y las mejores integraciones de ChatGPT para potenciar tus proyectos. ¡Prepárate para descubrir herramientas que te ayudarán a optimizar tus flujos de trabajo y llevar tus proyectos al siguiente nivel! 
+Links:
+1. https://dev.to/jignect_technologies/cypress-for-web-the-fast-and-easy-way-to-automate-your-ui-5bl9
+2. https://dev.to/ritiktyagi27/best-chatgpt-integrations-7i5
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="662265" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3</guid>
+      <pubDate>jue, 24 oct 2024 14:08:51 GMT</pubDate>
+      <itunes:duration>00:03:40</itunes:duration>
+    </item>
   </channel>
 </rss>
