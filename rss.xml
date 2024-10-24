@@ -211,5 +211,25 @@ Links:
       <pubDate>jue, 24 oct 2024 14:55:56 GMT</pubDate>
       <itunes:duration>00:16:22</itunes:duration>
     </item>
+    <item>
+      <title>¡El Futuro de la Tecnología Móvil Está Aquí! - Lo Último en Snapdragon, Android y Más </title>
+      <description>¡Prepárate para un viaje al futuro de la tecnología! En este video, exploramos los últimos avances en smartphones, desde las cámaras de Qualcomm que prometen experiencias increíbles, hasta los nuevos chips Tensor G5 y G6 de Google que podrían revolucionar la industria. Hablamos de los últimos rumores sobre Samsung y OnePlus, incluyendo el lanzamiento de One UI 7 y el OnePlus 13, y analizamos si la promesa de 8 años de soporte para Snapdragon 8 Elite es real. ¡Además, te contamos sobre la fascinante tecnología de JVCKENWOOD que usa ondas cerebrales para crear música y videos!  No te pierdas este resumen de las noticias tecnológicas que te dejarán boquiabierto. 
+Links:
+1. https://www.digitaltrends.com/mobile/qualcomm-made-the-future-of-smartphone-cameras-more-exciting-snapdragon-8-elite-isp/
+2. https://www.xda-developers.com/arm-reportedly-cancel-qualcomm-design-license/
+3. https://www.sammobile.com/news/one-ui-7-0-demoed-in-high-definition-galaxy-s24-ultra/
+4. https://www.phonearena.com/news/snapdragon-8-elite-8-years-of-support_id164079
+5. https://www.gsmarena.com/big_leak_details_specs_for_google_tensor_g5_and_g6_-news-65048.php
+6. https://www.sammobile.com/news/android-15-update-one-ui-7-samsung-galaxy-eligibility/
+7. https://www.ubergizmo.com/2024/10/jvc-kenwood-brainwave-activated-ai-driven-music-composition-and-video-creation-ceatec-2024/?utm_source=mainrss
+8. https://www.phonearena.com/news/googles-tensor-g5-and-g6-will-reportedly-be-a-leap-forward-with-tsmcs-3nm-process_id164059
+9. https://www.gsmarena.com/oneplus_13_gets_an_official_unboxing_video_before_its_unveiling-news-65043.php
+10. https://www.digitaltrends.com/mobile/google-pixel-phones-may-finally-catch-up-with-the-iphone-tensor-g5-tsmc-report/
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="2656485" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
+      <pubDate>jue, 24 oct 2024 14:59:28 GMT</pubDate>
+      <itunes:duration>00:14:45</itunes:duration>
+    </item>
   </channel>
 </rss>
