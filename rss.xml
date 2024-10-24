@@ -203,5 +203,17 @@ Links:
       <pubDate>jue, 24 oct 2024 14:08:51 GMT</pubDate>
       <itunes:duration>00:03:40</itunes:duration>
     </item>
+    <item>
+      <title> El Futuro de la Tecnología: IA que Compones Música y Robots que Conducen tu Hogar </title>
+      <description>¡Bienvenidos a un nuevo video! En este episodio, exploraremos las últimas innovaciones en inteligencia artificial presentadas en CEATEC 2024 y ROSCon 2024. Desde la creación de música y videos impulsados por las ondas cerebrales hasta un centro de hogar inteligente autónomo, ¡prepárense para descubrir el futuro de la tecnología! 
+Links:
+1. https://www.ubergizmo.com/2024/10/jvc-kenwood-brainwave-activated-ai-driven-music-composition-and-video-creation-ceatec-2024/?utm_source=mainrss
+2. https://www.ubergizmo.com/2024/10/lg-self-driving-ai-home-hub/?utm_source=mainrss
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="865413" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
+      <pubDate>jue, 24 oct 2024 14:09:42 GMT</pubDate>
+      <itunes:duration>00:04:48</itunes:duration>
+    </item>
   </channel>
 </rss>
