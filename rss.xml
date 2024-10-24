@@ -106,7 +106,7 @@
       9. https://9to5mac.com/2024/10/19/kitcast-2-0/
       10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
       </description>
-            <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg"/>
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
       <pubDate>dom, 20 oct 2024 07:23:08 GMT</pubDate>
       <itunes:duration>00:14:56</itunes:duration>
@@ -192,28 +192,24 @@
       <itunes:duration>00:18:31</itunes:duration>
     </item>
     <item>
-      <title>¡Automatiza tu Web con Cypress y Domina ChatGPT! </title>
-      <description>¡Hola a todos! En este video, exploramos dos temas candentes en el mundo del desarrollo web: Cypress para automatizar pruebas de interfaz de usuario de forma rápida y fácil, y las mejores integraciones de ChatGPT para potenciar tus proyectos. ¡Prepárate para descubrir herramientas que te ayudarán a optimizar tus flujos de trabajo y llevar tus proyectos al siguiente nivel! 
+      <title> El Futuro de la Programación: Tendencias, Tecnologías y Recursos </title>
+      <description>¡Bienvenidos a un nuevo episodio! Hoy exploraremos las últimas tendencias en desarrollo web y programación, desde las mejores herramientas y lenguajes para carreras globales, hasta la automatización de tareas con Python y la creación de aplicaciones web con React. ¡Acompáñame a descubrir las mejores prácticas y proyectos de código abierto que te ayudarán a mejorar tus habilidades y llevar tu desarrollo al siguiente nivel! 
 Links:
-1. https://dev.to/jignect_technologies/cypress-for-web-the-fast-and-easy-way-to-automate-your-ui-5bl9
-2. https://dev.to/ritiktyagi27/best-chatgpt-integrations-7i5
+1. https://medium.com/@anupamsingh696/best-programming-language-for-global-careers-e8e528c1a509?source=rss------programming-5
+2. https://dev.to/safdarali/everything-you-need-to-know-about-python-lists-1nca
+3. https://dev.to/dmitrat/witengine-building-modular-controllers-for-script-automation-5g5e
+4. https://medium.com/@kelanach/implementing-web-scraping-and-ai-analysis-using-golang-fiber-and-claude-sonnet-3-5-6de155128357?source=rss------programming-5
+5. https://dev.to/snikidev/creating-a-simple-rag-in-python-with-azureopenai-and-llamaindex-3loc
+6. https://dev.to/gitprotect/the-importance-of-verifying-your-github-environments-security-controls-11cf
+7. https://dev.to/ritiktyagi27/best-telegram-integrations-1c1c
+8. https://dev.to/saquib_hussain_0d67ba0ead/deploying-static-react-app-on-aws-s3-bucket-gln
+9. https://play2048.co
+10. https://github.com/dittofeed/dittofeed/tree/main/packages/emailo
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="662265" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="2948517" type="audio/mpeg"/>
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3</guid>
-      <pubDate>jue, 24 oct 2024 14:08:51 GMT</pubDate>
-      <itunes:duration>00:03:40</itunes:duration>
-    </item>
-    <item>
-      <title> El Futuro de la Tecnología: IA que Compones Música y Robots que Conducen tu Hogar </title>
-      <description>¡Bienvenidos a un nuevo video! En este episodio, exploraremos las últimas innovaciones en inteligencia artificial presentadas en CEATEC 2024 y ROSCon 2024. Desde la creación de música y videos impulsados por las ondas cerebrales hasta un centro de hogar inteligente autónomo, ¡prepárense para descubrir el futuro de la tecnología! 
-Links:
-1. https://www.ubergizmo.com/2024/10/jvc-kenwood-brainwave-activated-ai-driven-music-composition-and-video-creation-ceatec-2024/?utm_source=mainrss
-2. https://www.ubergizmo.com/2024/10/lg-self-driving-ai-home-hub/?utm_source=mainrss
-</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="865413" type="audio/mpeg"/>
-      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
-      <pubDate>jue, 24 oct 2024 14:09:42 GMT</pubDate>
-      <itunes:duration>00:04:48</itunes:duration>
+      <pubDate>jue, 24 oct 2024 14:55:56 GMT</pubDate>
+      <itunes:duration>00:16:22</itunes:duration>
     </item>
   </channel>
 </rss>
