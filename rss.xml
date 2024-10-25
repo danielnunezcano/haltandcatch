@@ -231,5 +231,25 @@ Links:
       <pubDate>jue, 24 oct 2024 14:59:28 GMT</pubDate>
       <itunes:duration>00:14:45</itunes:duration>
     </item>
+    <item>
+      <title> Tech Revolutions: IA, Ciberseguridad, Salud y Más </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy hablaremos de temas que van desde la seguridad en el comercio minorista hasta el avance de la tecnología. 🤖  Exploraremos cómo la IA está transformando la vigilancia y la detección de objetos en tiendas, la importancia de las aplicaciones offline-first para entornos con conectividad inestable, y qué nos dejará la década de los 2020s. 📰 También nos adentraremos en el mundo de WordPress y cómo su hosting puede elevar el diseño y desarrollo de tu sitio web. 💻  Prepárense para noticias impactantes como la filtración de datos de 100 millones de personas en un ataque a Change Healthcare, y los descubrimientos científicos sobre el sistema linfático del cerebro. 🧠  ¡No te pierdas las últimas novedades sobre IA, como la inferencia 3 veces más rápida de Cerebras y los modelos de Llama cuantificados! ⚡️  Además, hablaremos de nuevas herramientas de desarrollo como Bitwarden SDK y TypeSchema. ¡No te pierdas este video lleno de información tecnológica e innovaciones! 🚀
+Links:
+1. https://dev.to/api4ai/transforming-retail-safety-the-role-of-ai-in-object-detection-and-store-surveillance-39og
+2. https://dev.to/k__/building-reliable-offline-first-apps-with-server-sync-a-strategic-approach-for-unstable-connectivity-4ig4
+3. https://dev.to/yunwei37/what-will-we-remember-from-the-2020s-looking-back-in-history-and-thinking-forward-25bp
+4. https://dev.to/wewphosting/how-wordpress-hosting-elevates-your-website-design-and-development-1i4a
+5. https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/
+6. https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time
+7. https://cerebras.ai/blog/cerebras-inference-3x-faster
+8. https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b
+9. https://typeschema.org/
+10. https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3" length="3263013" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3</guid>
+      <pubDate>vie, 25 oct 2024 10:04:01 GMT</pubDate>
+      <itunes:duration>00:18:07</itunes:duration>
+    </item>
   </channel>
 </rss>
