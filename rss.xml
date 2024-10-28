@@ -271,5 +271,25 @@ Links:
       <pubDate>vie, 25 oct 2024 10:07:10 GMT</pubDate>
       <itunes:duration>00:17:38</itunes:duration>
     </item>
+    <item>
+      <title>¡Domina el Desarrollo Web: Trucos, Herramientas y Buenas Prácticas! </title>
+      <description>¡Hola a todos! En este video, exploramos las últimas tendencias en desarrollo web y software. Hablaremos de temas como la implementación de aplicaciones Spring Boot con Docker, los conceptos básicos del hook useState de React con TypeScript, los plugins más útiles de Jenkins y sus casos de uso, consejos para sobrevivir a un bootcamp de programación, 20 trucos de JavaScript que todo desarrollador debería conocer, alternativas al comando ls de Zsh, expresiones en Power Automate, las mejores prácticas para el uso de try-catch en PHP, y la experiencia de crear una biblioteca open source para identificar excepciones en tiempo real con Machine Learning. ¡Prepárate para aprender cosas nuevas! 
+Links:
+1. https://dev.to/aungkohtat/deploying-a-spring-boot-banking-application-with-docker-n25
+2. https://dev.to/tymzap/the-beginners-guide-to-reacts-usestate-hook-the-absolute-basics-1gei
+3. https://dev.to/i_am_vesh/most-useful-jenkins-plugins-and-their-use-cases-14j9
+4. https://dev.to/ashleyd480/surviving-coding-bootcamp-lessons-learned-58am
+5. https://dev.to/jagroop2001/20-javascript-tricks-every-developer-must-know-4pcj
+6. https://dev.to/keploy/top-alternatives-to-the-zsh-ls-command-1lfm
+7. https://dev.to/wyattdave/power-automate-expressions-ljn
+8. https://dev.to/janak_kapadia_2c050fa4eb9/should-you-use-try-catch-around-entire-functions-in-php-best-practices-and-examples-2e9f
+9. https://dev.to/janak_kapadia_2c050fa4eb9/when-to-use-try-catch-in-php-a-developers-guide-with-practical-examples-4amc
+10. https://dev.to/openexcept/i-built-my-first-open-source-library-called-openexcept-to-help-identify-top-exceptions-automatically-with-ml-4bn9
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3" length="3437541" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3</guid>
+      <pubDate>lun, 28 oct 2024 08:04:39 GMT</pubDate>
+      <itunes:duration>00:19:05</itunes:duration>
+    </item>
   </channel>
 </rss>
