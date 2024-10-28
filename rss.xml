@@ -291,5 +291,25 @@ Links:
       <pubDate>lun, 28 oct 2024 08:04:39 GMT</pubDate>
       <itunes:duration>00:19:05</itunes:duration>
     </item>
+    <item>
+      <title>¡El mundo móvil en ebullición! 🤯 Novedades, rumores y noticias de Apple, Samsung, Google, Huawei y más. </title>
+      <description>¡Bienvenidos a un nuevo resumen de las noticias tecnológicas más relevantes! Esta semana, Honor sorprende con MagicOS 9.0 y su roadmap para Android 15. Mientras tanto, Indonesia prohíbe el iPhone 16 por incumplimiento de Apple. Huawei apuesta por HarmonyOS NEXT para ser el tercer sistema operativo móvil del mundo. ¡Prepárense para el anuncio del Nintendo Switch 2! Además, se filtran detalles del iPhone SE 4 y Google Gemini se prepara para dar un salto hacia la ciencia ficción. ¡Todo esto y mucho más en este video! 
+Links:
+1. https://www.phonearena.com/news/honor-magicos-9.0-android-15-update-roadmap_id164101
+2. https://9to5mac.com/2024/10/27/iphone-16-indonesia-ban/
+3. https://www.phonearena.com/news/huawei-makes-harmionyos-next-official-with-over-15k-apps_id164160
+4. https://www.xda-developers.com/nintendo-switch-2-reportedly-being-announced-very-soon/
+5. https://9to5mac.com/2024/10/27/three-things-apple-wont-announce-this-week/
+6. https://www.phonearena.com/news/snapdragon-8-elite-will-skyrocket-the-galaxy-s25-pa-show-e23_id164158
+7. https://www.phonearena.com/news/iphone-16-banned-in-indonesia_id164156
+8. https://www.phonearena.com/news/All-of-iPhone-SE-4-specs-leak-along-with-price-and-launch-month_id164152
+9. https://www.digitaltrends.com/mobile/google-gemini-is-good-but-this-update-could-make-it-downright-sci-fi/
+10. https://www.gsmarena.com/snapdragon_8_elite_and_slim_galaxy_z_fold_special_edition_official_week_43_in_review-news-65066.php
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3" length="2807793" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3</guid>
+      <pubDate>lun, 28 oct 2024 08:08:28 GMT</pubDate>
+      <itunes:duration>00:15:35</itunes:duration>
+    </item>
   </channel>
 </rss>
