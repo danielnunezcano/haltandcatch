@@ -311,5 +311,25 @@ Links:
       <pubDate>lun, 28 oct 2024 08:08:28 GMT</pubDate>
       <itunes:duration>00:15:35</itunes:duration>
     </item>
+    <item>
+      <title> ¡Devs al rescate!  -  Tendencias tecnológicas, consejos y herramientas para tu próximo proyecto 🚀 </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy vamos a hablar de temas interesantes del mundo tech, desde el desarrollo web hasta la inteligencia artificial. En este video, exploraremos las diferencias entre Axios y Fetch para tus proyectos,  analizaremos cómo diseñar un sistema de incentivos perfecto, y te enseñaremos algunos trucos para aprovechar al máximo Google Sheets. Además, discutiremos el futuro de la computación en la nube, compararemos el rendimiento de RabbitMQ con Web MQTT Plugin frente a Node.js, y profundizaremos en la importancia de la psicología del usuario en el diseño de interfaces.¡No te pierdas nuestro análisis sobre la computación en la nube verde, una guía para principiantes sobre Terraform y AWS, y una advertencia sobre los peligros de la recursión en la unificación!Y finalmente, descubriremos cómo la inteligencia artificial puede optimizar el contenido en redes sociales. ¡Acompáñame en este recorrido informativo y apasionante! 
+Links:
+1. https://blog.codeparrot.ai/axios-vs-fetch-which-one-should-you-choose-for-your-project-c68081b22e25?source=rss------programming-5
+2. https://dev.to/anistark/designing-the-perfect-incentivised-system-part-1-31l
+3. https://dev.to/sfdcnews/5-ways-for-sf-dark-mode-customize-logins-google-sheets-hacks-for-data-management-3lkb
+4. https://dev.to/adityabhuyan/the-future-of-cloud-computing-predictions-for-the-next-decade-2fkb
+5. https://dev.to/arisdolanan/rabbitmq-with-web-mqtt-plugin-vs-nodejs-performance-and-memory-usage-comparison-4jea
+6. https://dev.to/info_generalhazedawn_a3d/the-importance-of-understanding-user-psychology-in-user-interface-design-mep
+7. https://dev.to/adityabhuyan/green-cloud-computing-how-the-cloud-can-help-save-the-planet-2kba
+8. https://dev.to/anhdung/for-dummies-what-is-terraform-how-to-use-it-with-aws-949
+9. https://www.philipzucker.com/unify/
+10. https://openpipe.ai/blog/hacker-news-rlhf-part-1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3" length="3484089" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3</guid>
+      <pubDate>mar, 29 oct 2024 07:20:27 GMT</pubDate>
+      <itunes:duration>00:19:21</itunes:duration>
+    </item>
   </channel>
 </rss>
