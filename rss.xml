@@ -351,5 +351,27 @@ Links:
       <pubDate>mar, 29 oct 2024 07:23:09 GMT</pubDate>
       <itunes:duration>00:13:26</itunes:duration>
     </item>
+    <item>
+      <title> Postgres, AI, y Desarrollando con Pruebas: Un Viaje Tecnológico </title>
+      <description>¡Hola! En este video, exploramos una variedad de temas tecnológicos, desde el desarrollo de software hasta el análisis de datos. Cubriremos temas como la integración de Prisma con PostgreSQL, las mejores prácticas de pruebas de regresión visual, las herramientas y estrategias de monitoreo de PostgreSQL, y una introducción a la metodología ágil. También nos adentraremos en el manejo de excepciones en Java, la abstracción en la programación orientada a objetos, y cómo ejecutar modelos de lenguaje de gran tamaño en su propio servidor. Además, exploraremos el trabajo con bases de datos en Python, cómo usar OAuth con Go y la API de Spotify, y algunos ejemplos prácticos de procesamiento de datos con CSV. ¡Prepárense para un viaje lleno de información y aprendizaje! 
+Links:
+1. https://dev.to/awalias/prisma-postgres-4o09
+2. https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la
+3. https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf
+4. https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8
+5. https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk
+6. https://dev.to/arshisaxena26/abstraction-abstract-class-vs-interface-1dak
+7. https://dev.to/sonmusui/unleashing-the-power-of-ai-running-large-language-models-on-your-own-cloud-server-digital-ocean-48oi
+8. https://dev.to/info_generalhazedawn_a3d/working-with-databases-in-python-sqlite-and-postgresql-37fm
+9. https://dev.to/kishoreology/my-hacktoberfest-2024-journey-a-reflection-on-contributor-experience-47h
+10. https://dev.to/goodylili/oauth-tutorial-with-go-and-the-spotify-api-522n
+11. https://dev.to/esproc_spl/group-summarize-a-csv-file-eg68-4dao
+12. https://dev.to/judith677/85-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-continuous-link-relative-ratio-and-yoy-4n0g
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3" length="4053789" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3</guid>
+      <pubDate>mié, 30 oct 2024 08:20:52 GMT</pubDate>
+      <itunes:duration>00:22:31</itunes:duration>
+    </item>
   </channel>
 </rss>
