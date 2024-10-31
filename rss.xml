@@ -373,5 +373,27 @@ Links:
       <pubDate>mié, 30 oct 2024 08:20:52 GMT</pubDate>
       <itunes:duration>00:22:31</itunes:duration>
     </item>
+    <item>
+      <title>¡Dominando el Mundo Tech! - De JavaScript a React y Más 🤯 </title>
+      <description>¡Hola a todos! En este video, te sumergimos en el fascinante mundo de la programación. Desde los conceptos básicos de JavaScript y Python hasta técnicas avanzadas para optimizar tu código, ¡tenemos algo para todos! Aprenderás sobre arrays en JavaScript, las ventajas de Set.has(), cómo encontrar la mediana de dos arrays ordenados, y mucho más.  También exploraremos la construcción de web scrapers con Python, el manejo de notificaciones push con React Native Firebase, y consejos para escribir código eficiente y legible en Python. ¡Prepárate para aprender, crecer y construir proyectos increíbles! 
+Links:
+1. https://dev.to/nozibul_islam_113b1d5334f/the-ultimate-guide-to-javascript-arrays-a-complete-method-list-50-topics-1e66
+2. https://dev.to/programminginblood/why-sethas-is-faster-than-arrayincludes-for-finding-items-4hh
+3. https://dev.to/munisekharudavalapati/4-median-of-two-sorted-arrays-4e0n
+4. https://dev.to/spandan_twts/my-hacktoberfest-2024-journey-as-a-maintainer-with-githubopenworld-6g4
+5. https://dev.to/virali_vasa_08dde36489ed6/troubleshooting-common-issues-of-react-native-firebase-cloud-messaging-36i3
+6. https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n
+7. https://dev.to/abdulla783/20-powerful-techniques-for-writing-efficient-and-readable-python-code-3fee
+8. https://dev.to/thetanweerali/easiest-way-to-handle-drop-down-menus-in-python-using-selenium--3hph
+9. https://dev.to/renish_ponkiya/mastering-algorithms-essential-concepts-every-computer-engineering-student-should-know-1h8e
+10. https://dev.to/diwakar_verma_381fc6e5e2f/learning-goes-hand-in-hand-with-building-my-journey-from-javascript-basics-to-real-world-projects-47p8
+11. https://dev.to/oyeaussie/php-ip2location-phpfirewall-501l
+12. https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3" length="3581289" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3</guid>
+      <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
+      <itunes:duration>00:19:53</itunes:duration>
+    </item>
   </channel>
 </rss>
