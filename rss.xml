@@ -395,23 +395,5 @@ Links:
       <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
       <itunes:duration>00:19:53</itunes:duration>
     </item>
-    <item>
-      <title>¡Actualízate!: Laptops, Windows, Gaming, CPUs, NAS y más! </title>
-      <description>¡Hola a todos! En este vídeo te traigo las noticias más relevantes del mundo de la tecnología:  un portátil de alta gama con dos pantallas OLED a un precio increíble, un bug molesto en Windows 11, un ratón gaming Logitech con un gran descuento, una guía de los mejores procesadores del mercado, consejos para aprovechar al máximo tu NAS, una explicación sencilla sobre las gamas de color, cómo ejecutar máquinas virtuales ARM64 en Proxmox y un tutorial para utilizar una GPU en VirtualBox. ¡No te lo pierdas! 
-Links:
-1. https://www.xda-developers.com/asus-zenbook-duo-1299-deal/
-2. https://www.xda-developers.com/windows-11-24h2-bug-leaves-you-confused-about-the-number-of-apps-running/
-3. https://www.xda-developers.com/logitech-g305-gaming-mouse-30-deal/
-4. https://www.xda-developers.com/best-cpus/
-5. https://www.xda-developers.com/things-to-do-after-building-your-nas/
-6. https://www.xda-developers.com/color-gamut-explainer/
-7. https://www.xda-developers.com/run-arm64-vms-on-proxmox/
-8. https://www.xda-developers.com/how-use-gpu-virtualbox/
-</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_phones.mp3" length="113841" type="audio/mpeg"/>
-      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_phones.mp3</guid>
-      <pubDate>jue, 31 oct 2024 07:49:44 GMT</pubDate>
-      <itunes:duration>00:00:37</itunes:duration>
-    </item>
   </channel>
 </rss>
