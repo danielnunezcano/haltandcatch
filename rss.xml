@@ -395,5 +395,27 @@ Links:
       <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
       <itunes:duration>00:19:53</itunes:duration>
     </item>
+    <item>
+      <title>¡Domina las últimas tendencias en desarrollo web! 🚀 </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy exploraremos un conjunto de temas de desarrollo web y tecnología que seguramente te serán de utilidad, desde la automatización de validación de API hasta la selección de frameworks de Node.js. Aprenderemos sobre patrones de programación avanzados, cómo evitar trampas comunes en JavaScript, las mejores herramientas para el desarrollo web rápido, y mucho más. ¡Prepárate para un viaje emocionante a través del mundo del desarrollo! 
+Links:
+1. https://dev.to/datapult/advanced-scheduling-patterns-with-demand-based-matching-skills-and-competencies-part-4-cj5
+2. https://dev.to/apilover/automate-api-response-validation-2i79
+3. https://dev.to/zenstok/how-to-avoid-the-single-threaded-trap-in-javascript-12ih
+4. https://dev.to/bardui/top-3-websites-to-copy-paste-tailwind-css-components-for-fast-track-ui-development-in-2024-4182
+5. https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj
+6. https://dev.to/stippy4real/app-service-131b
+7. https://dev.to/gameon_gameover_8f18dbb85/65-flutter-interview-questions-and-answers-for-all-levels-3n64
+8. https://dev.to/vipulkumarsviit/6-understanding-event-driven-architecture-1elo
+9. https://dev.to/datapult/once-you-have-the-schedule-visualize-it-right-and-how-we-built-ours-part-3-2bbh
+10. https://dev.to/okoye_ndidiamaka_5e3b7d30/introduction-to-apis-supercharging-your-web-development-journey-597m
+11. https://dev.to/arshisaxena26/polymorphism-decoding-method-overriding-in-java-1j01
+12. https://dev.to/shinetechsoftwareinc/how-to-choose-the-right-tech-stack-for-your-startup-5b42
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3" length="3813057" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3</guid>
+      <pubDate>vie, 01 nov 2024 10:16:41 GMT</pubDate>
+      <itunes:duration>00:21:10</itunes:duration>
+    </item>
   </channel>
 </rss>
