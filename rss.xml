@@ -417,5 +417,27 @@ Links:
       <pubDate>vie, 01 nov 2024 10:16:41 GMT</pubDate>
       <itunes:duration>00:21:10</itunes:duration>
     </item>
+    <item>
+      <title>¡Dominando Java, Keycloak y la Nube!  🚀 Halloween Coding &amp; Más 🎃 </title>
+      <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias en desarrollo y tecnología! Esta semana cubriremos temas tan interesantes como la programación con Java 8, la gestión de roles en Keycloak, la solución de problemas en Mac, la trazabilidad distribuida con Jaeger, la ética en la IA, la supervisión de la infraestructura, las nuevas características de Java 21, las redes para especialistas en la nube y una introducción a la API de administración de Keycloak. ¡Prepárense para aprender y discutir! 
+Links:
+1. https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec
+2. https://dev.to/dhanush9952/mastering-lambda-expressions-in-java-8-a-comprehensive-guide-27bf
+3. https://dev.to/paradox007/day-3-step-2ip8
+4. https://dev.to/mahamadjon000/else-if-4kbh
+5. https://dev.to/im_santhiya_guna/handling-nested-roles-in-keycloak-3lfk
+6. https://dev.to/shawon/how-to-fix-lulus-network-extension-is-not-running-on-mac-4j0g
+7. https://dev.to/subham_nandi/day-6-distributed-tracing-with-jaeger-5dh4
+8. https://dev.to/siddharthbhalsod/ai-ethics-and-regulation-navigating-the-future-of-technology-o72
+9. https://dev.to/muneeb_akram/introducing-dependency-drift-monitor-keep-your-infrastructure-in-check-4fkk
+10. https://dev.to/utteshkumar/java-21-virtual-threads-revolutionizing-concurrency-1li0
+11. https://dev.to/574n13y/networking-essentials-for-cloud-specialists-16c
+12. https://dev.to/im_santhiya_guna/introduction-to-keycloak-admin-api-273m
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3" length="4251429" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3</guid>
+      <pubDate>sáb, 02 nov 2024 09:10:00 GMT</pubDate>
+      <itunes:duration>00:23:37</itunes:duration>
+    </item>
   </channel>
 </rss>
