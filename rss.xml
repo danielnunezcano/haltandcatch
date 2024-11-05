@@ -461,5 +461,27 @@ Links:
       <pubDate>lun, 04 nov 2024 08:38:06 GMT</pubDate>
       <itunes:duration>00:21:36</itunes:duration>
     </item>
+    <item>
+      <title>🚀  De Cero a Experto: Lo Último en Desarrollo con Tecnología de Vanguardia </title>
+      <description>¡Hola a todos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las últimas tendencias en desarrollo web hasta las mejores prácticas para el diseño de sistemas. Hablaremos de las diferencias entre los chips RK3588 y RK3576, te enseñaremos cómo usar Tailwind CSS para diseños increíbles y te guiaremos por los beneficios de Docker para entornos de desarrollo modernos. También exploraremos conceptos como el diseño de sistemas, la arquitectura de eventos, las pruebas Shift-Left, la consulta de DynamoDB con Athena y mucho más. ¡Prepárate para aprender sobre temas interesantes y herramientas esenciales en el mundo tecnológico! 
+Links:
+1. https://dev.to/as-jackson/a-comparative-analysis-between-rk3588-and-rk3576-chips-unveiling-the-technological-distinctions-5ci1
+2. https://dev.to/bardui/all-the-colors-you-need-with-tailwind-css-2lp1
+3. https://dev.to/adityabhuyan/why-docker-is-essential-for-modern-development-environments-and-its-alternatives-6k7
+4. https://dev.to/derek-compdf/integrate-pdf-conversion-by-deploying-open-source-stirling-pdf-with-docker-4o15
+5. https://dev.to/madina1575/switch-statement-5fgd
+6. https://dev.to/_32a24721f9b5e088c539d/napi-rsde-shi-yong-4087
+7. https://dev.to/nishantnaithani/simplifying-system-design-scaling-vertical-vs-horizontal-4295
+8. https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g
+9. https://dev.to/adityabhuyan/shift-left-testing-the-key-to-accelerating-quality-in-agile-development-15c9
+10. https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c
+11. https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e
+12. https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3" length="4284261" type="audio/mpeg"/>
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3</guid>
+      <pubDate>mar, 05 nov 2024 08:40:33 GMT</pubDate>
+      <itunes:duration>00:23:48</itunes:duration>
+    </item>
   </channel>
 </rss>
