@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Halt And Catch</title>
@@ -13,12 +13,12 @@
       <itunes:name>Halt And Catch</itunes:name>
       <itunes:email>haltandcatchia@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg"/>
-    <itunes:category text="Technology"/>
+    <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
+    <itunes:category text="Technology" />
     <item>
       <title>¡De IA a gatos líquidos! Lo más destacado de la semana en tecnología</title>
       <description>¡Bienvenidos a un nuevo resumen de las noticias más interesantes del mundo tech! En este video, te contamos sobre la inversión de Telefónica en un motor de búsqueda con IA, un experto en audio accidental, cómo elegir el tipo de dato SQL adecuado, un nuevo juego de mesa llamado Crokinole, una función para personalizar resúmenes de audio, una extensión para conectar Postgres y parquet, un abogado especializado en inmigración para startups que responde a preguntas, una herramienta de rotación de imágenes de Adobe impulsada por IA, un tutorial de desarrollo de juegos en Lisp y un estudio que revela que los gatos son casi líquidos. ¡Prepárense para una dosis de innovación, tecnología y entretenimiento!</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3" length="1910421" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3" length="1910421" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3</guid>
       <pubDate>vie, 18 oct 2024 08:00:47 GMT</pubDate>
       <itunes:duration>00:10:36</itunes:duration>
@@ -26,7 +26,7 @@
     <item>
       <title>El panorama móvil: Android 15, One UI 7, OnePlus 13, iPhone 16 Pro y más</title>
       <description>¡Hola a todos! En este video, repasamos las últimas noticias del mundo de la tecnología móvil. Hablaremos del lanzamiento estable de Android 15 para los Pixel, el nuevo Infinix Zero Flip, las especulaciones sobre el primer smartphone con Snapdragon 8 Elite en India, el nuevo ColorOS 15 de Oppo, el diseño del OnePlus 13, las nuevas exigencias de la App Store de la UE a los desarrolladores, el éxito de ventas del Pixel 9, el unboxing submarino del Realme GT7 Pro y, por último, comparamos el iPhone 16 Pro con el iPhone 16 Pro Max. ¡No te pierdas las últimas novedades y análisis!</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3" length="1400877" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3" length="1400877" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3</guid>
       <pubDate>vie, 18 oct 2024 15:10:47 GMT</pubDate>
       <itunes:duration>00:07:46</itunes:duration>
@@ -46,7 +46,7 @@
       9. https://dev.to/vishal_tiwari_114f21d14e5/top-challenging-and-hardest-javascript-technical-interview-questions-with-solutions-3189
       10. https://dev.to/s3cloudhub/mastering-multi-cloud-infrastructure-with-terraform-a-game-changer-for-modern-it-563j
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3" length="3533337" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3" length="3533337" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3</guid>
       <pubDate>sáb, 19 oct 2024 08:44:07 GMT</pubDate>
       <itunes:duration>00:19:37</itunes:duration>
@@ -66,7 +66,7 @@
       9. https://www.gsmarena.com/ipad_mini_2024_boasts_8gb_ram_as_confirmed_by_geekbench_listing-news-64986.php
       10. https://9to5mac.com/2024/10/18/tsmc-may-have-breached-us-sanctions-apple-chip-production-could-be-at-risk/
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3" length="2673657" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3" length="2673657" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3</guid>
       <pubDate>sáb, 19 oct 2024 08:47:58 GMT</pubDate>
       <itunes:duration>00:14:51</itunes:duration>
@@ -86,7 +86,7 @@
       9. https://www.npmjs.com/package/svelte
       10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3139785" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3139785" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
       <pubDate>dom, 20 oct 2024 07:03:56 GMT</pubDate>
       <itunes:duration>00:17:26</itunes:duration>
@@ -106,7 +106,7 @@
       9. https://9to5mac.com/2024/10/19/kitcast-2-0/
       10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
       <pubDate>dom, 20 oct 2024 07:23:08 GMT</pubDate>
       <itunes:duration>00:14:56</itunes:duration>
@@ -126,7 +126,7 @@
       9. https://www.npmjs.com/package/svelte
       10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3644253" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3644253" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
       <pubDate>dom, 20 oct 2024 09:13:48 GMT</pubDate>
       <itunes:duration>00:20:14</itunes:duration>
@@ -146,14 +146,14 @@
       9. https://www.gsmarena.com/vivo_x200_x200_pro_china_price_sale_date-news-64995.php
       10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2822697" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2822697" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
       <pubDate>dom, 20 oct 2024 09:21:11 GMT</pubDate>
       <itunes:duration>00:15:40</itunes:duration>
     </item>
     <item>
       <title>🔥🚀  Dominando las Tecnologías del Futuro: De Python a AI, Salesforce y Más! </title>
-      <description>¡Bienvenidos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las mejores prácticas en desarrollo hasta la implementación de inteligencia artificial. Descubriremos trucos para acelerar el desarrollo en Python, aprenderemos a escalar aplicaciones Python con KEDA, y crearemos una característica de &quot;Mostrar contraseña&quot; con HTML, CSS y JavaScript. Además, profundizaremos en el mundo de Salesforce Marketing Cloud, la integración de AI en negocios y la creación de gráficos de precios de acciones con código Python. También analizaremos las mejores prácticas para escribir código limpio y mantenible en JavaScript, aprenderemos Rust de una manera &quot;peligrosa&quot;, y desentrañaremos los misterios de MVCC en PostgreSQL. ¡Acompáñenme en este viaje por el mundo de la tecnología! 
+      <description>¡Bienvenidos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las mejores prácticas en desarrollo hasta la implementación de inteligencia artificial. Descubriremos trucos para acelerar el desarrollo en Python, aprenderemos a escalar aplicaciones Python con KEDA, y crearemos una característica de "Mostrar contraseña" con HTML, CSS y JavaScript. Además, profundizaremos en el mundo de Salesforce Marketing Cloud, la integración de AI en negocios y la creación de gráficos de precios de acciones con código Python. También analizaremos las mejores prácticas para escribir código limpio y mantenible en JavaScript, aprenderemos Rust de una manera "peligrosa", y desentrañaremos los misterios de MVCC en PostgreSQL. ¡Acompáñenme en este viaje por el mundo de la tecnología! 
       Links:
       1. https://python.plainenglish.io/10-python-shortcuts-for-faster-development-89e5428762cf?source=rss------programming-5
       2. https://python.plainenglish.io/event-driven-scaling-of-python-applications-in-azure-kubernetes-service-aks-using-keda-d5b2f6cba293?source=rss------programming-5
@@ -166,7 +166,7 @@
       9. https://cliffle.com/p/dangerust/
       10. https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3" length="2750229" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3" length="2750229" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3</guid>
       <pubDate>lun, 21 oct 2024 08:24:14 GMT</pubDate>
       <itunes:duration>00:15:16</itunes:duration>
@@ -186,7 +186,7 @@
       9. https://www.digitaltrends.com/mobile/apple-intelligence-report-ios-ai-features-chatgpt-future-research/
       10. https://www.digitaltrends.com/mobile/android-15-when-will-my-phone-get-the-update/
       </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3" length="3335805" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3" length="3335805" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3</guid>
       <pubDate>lun, 21 oct 2024 08:27:11 GMT</pubDate>
       <itunes:duration>00:18:31</itunes:duration>
@@ -206,7 +206,7 @@ Links:
 9. https://play2048.co
 10. https://github.com/dittofeed/dittofeed/tree/main/packages/emailo
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="2948517" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="2948517" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3</guid>
       <pubDate>jue, 24 oct 2024 14:55:56 GMT</pubDate>
       <itunes:duration>00:16:22</itunes:duration>
@@ -226,7 +226,7 @@ Links:
 9. https://www.gsmarena.com/oneplus_13_gets_an_official_unboxing_video_before_its_unveiling-news-65043.php
 10. https://www.digitaltrends.com/mobile/google-pixel-phones-may-finally-catch-up-with-the-iphone-tensor-g5-tsmc-report/
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="2656485" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="2656485" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
       <pubDate>jue, 24 oct 2024 14:59:28 GMT</pubDate>
       <itunes:duration>00:14:45</itunes:duration>
@@ -246,7 +246,7 @@ Links:
 9. https://typeschema.org/
 10. https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3" length="3263013" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3" length="3263013" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3</guid>
       <pubDate>vie, 25 oct 2024 10:04:01 GMT</pubDate>
       <itunes:duration>00:18:07</itunes:duration>
@@ -266,7 +266,7 @@ Links:
 9. https://www.digitaltrends.com/mobile/qualcomm-made-the-future-of-smartphone-cameras-more-exciting-snapdragon-8-elite-isp/
 10. https://www.gsmarena.com/asus_rog_phone_9_pro_design_leaked_renders-news-65049.php
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3" length="3174237" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3" length="3174237" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3</guid>
       <pubDate>vie, 25 oct 2024 10:07:10 GMT</pubDate>
       <itunes:duration>00:17:38</itunes:duration>
@@ -286,7 +286,7 @@ Links:
 9. https://dev.to/janak_kapadia_2c050fa4eb9/when-to-use-try-catch-in-php-a-developers-guide-with-practical-examples-4amc
 10. https://dev.to/openexcept/i-built-my-first-open-source-library-called-openexcept-to-help-identify-top-exceptions-automatically-with-ml-4bn9
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3" length="3437541" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3" length="3437541" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3</guid>
       <pubDate>lun, 28 oct 2024 08:04:39 GMT</pubDate>
       <itunes:duration>00:19:05</itunes:duration>
@@ -306,7 +306,7 @@ Links:
 9. https://www.digitaltrends.com/mobile/google-gemini-is-good-but-this-update-could-make-it-downright-sci-fi/
 10. https://www.gsmarena.com/snapdragon_8_elite_and_slim_galaxy_z_fold_special_edition_official_week_43_in_review-news-65066.php
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3" length="2807793" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3" length="2807793" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3</guid>
       <pubDate>lun, 28 oct 2024 08:08:28 GMT</pubDate>
       <itunes:duration>00:15:35</itunes:duration>
@@ -326,7 +326,7 @@ Links:
 9. https://www.philipzucker.com/unify/
 10. https://openpipe.ai/blog/hacker-news-rlhf-part-1
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3" length="3484089" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3" length="3484089" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3</guid>
       <pubDate>mar, 29 oct 2024 07:20:27 GMT</pubDate>
       <itunes:duration>00:19:21</itunes:duration>
@@ -346,7 +346,7 @@ Links:
 9. https://9to5mac.com/2024/10/28/apple-intelligence-is-here-iphone-ios-8-1/
 10. https://www.gsmarena.com/indonesia_bans_sale_and_use_of_iphone_16_series-news-65093.php
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3" length="2418453" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3" length="2418453" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3</guid>
       <pubDate>mar, 29 oct 2024 07:23:09 GMT</pubDate>
       <itunes:duration>00:13:26</itunes:duration>
@@ -368,7 +368,7 @@ Links:
 11. https://dev.to/esproc_spl/group-summarize-a-csv-file-eg68-4dao
 12. https://dev.to/judith677/85-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-continuous-link-relative-ratio-and-yoy-4n0g
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3" length="4053789" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3" length="4053789" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3</guid>
       <pubDate>mié, 30 oct 2024 08:20:52 GMT</pubDate>
       <itunes:duration>00:22:31</itunes:duration>
@@ -390,7 +390,7 @@ Links:
 11. https://dev.to/oyeaussie/php-ip2location-phpfirewall-501l
 12. https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3" length="3581289" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3" length="3581289" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3</guid>
       <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
       <itunes:duration>00:19:53</itunes:duration>
@@ -412,7 +412,7 @@ Links:
 11. https://dev.to/arshisaxena26/polymorphism-decoding-method-overriding-in-java-1j01
 12. https://dev.to/shinetechsoftwareinc/how-to-choose-the-right-tech-stack-for-your-startup-5b42
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3" length="3813057" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3" length="3813057" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3</guid>
       <pubDate>vie, 01 nov 2024 10:16:41 GMT</pubDate>
       <itunes:duration>00:21:10</itunes:duration>
@@ -434,7 +434,7 @@ Links:
 11. https://dev.to/574n13y/networking-essentials-for-cloud-specialists-16c
 12. https://dev.to/im_santhiya_guna/introduction-to-keycloak-admin-api-273m
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3" length="4251429" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3" length="4251429" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3</guid>
       <pubDate>sáb, 02 nov 2024 09:10:00 GMT</pubDate>
       <itunes:duration>00:23:37</itunes:duration>
@@ -456,7 +456,7 @@ Links:
 11. https://dev.to/carrie_luo1/anti-bot-protection-with-safeline-70-5bmm
 12. https://dev.to/eleanor_fairfax_5ce95399d/a-better-vs-code-plugin-than-thunder-client-3go2
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3" length="3888549" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3" length="3888549" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3</guid>
       <pubDate>lun, 04 nov 2024 08:38:06 GMT</pubDate>
       <itunes:duration>00:21:36</itunes:duration>
@@ -478,10 +478,10 @@ Links:
 11. https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e
 12. https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d
 </description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3" length="4284261" type="audio/mpeg"/>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3" length="4284261" type="audio/mpeg" />
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3</guid>
       <pubDate>mar, 05 nov 2024 08:40:33 GMT</pubDate>
       <itunes:duration>00:23:48</itunes:duration>
     </item>
-  </channel>
+  <item><title>JSON#: Nuestro propio lector/escritor, MLOps con OpenShift Pipelines, y una inyección contra el VIH con 100% de efectividad.</title><description>¡Increíble avance en la lucha contra el VIH!  Un nuevo estudio muestra que una inyección contra el VIH administrada dos veces al año tiene una efectividad del 100% en mujeres.  En este video analizamos esta noticia revolucionaria y lo que significa para el futuro de la prevención del VIH.  ¡No te lo pierdas!</description><enclosure url="/home/daniel/Documentos/Podcast/audio/2024-12-03_noticiero_technology.mp3" length="0" type="audio/mpeg" /><guid>/home/daniel/Documentos/Podcast/audio/2024-12-03_noticiero_technology.mp3</guid><pubDate>mar, 03 dic 2024 14:52:38 GMT</pubDate><itunes:duration>00:07:40</itunes:duration></item></channel>
 </rss>
