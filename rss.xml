@@ -484,6 +484,12 @@ Links:
       <itunes:duration>00:23:48</itunes:duration>
       </item>
     <item>
-      <title>Tecnología, Accesibilidad y Eficiencia: Un Repaso a las Noticias de la Semana</title>
-      <description>En este video te muestro cómo configurar Elastic Cloud on Kubernetes (ECK) con un nombre de dominio personalizado.  Aprende paso a paso cómo integrar tu instancia de ECK con tu propio dominio para una gestión más eficiente y una mejor accesibilidad.  ¡No te lo pierdas!</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-12-03_noticiero_technology.mp3"
+      <title>Noticias tecnológicas, discapacidades, y política internacional.</title>
+      <description>¡Descubre el sorprendente mundo de los microbiomas cerebrales!  En este vídeo exploramos un fascinante descubrimiento: los peces tienen un microbioma en su cerebro. ¿Podría significar esto que los humanos también lo tenemos? Analizaremos las implicaciones de esta investigación y las preguntas que aún quedan por responder sobre la conexión entre las bacterias cerebrales y la salud mental y física. ¡No te lo pierdas!</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-12-03_noticiero_technology.mp3" length="4028300" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-12-03_noticiero_technology.mp3</guid>
+      <pubDate>Tue, 03 Dec 2024 15:35:39 GMT</pubDate>
+      <itunes:duration>00:22:22</itunes:duration>
+      </item>
+    </channel>
+  </rss>
