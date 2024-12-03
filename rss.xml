@@ -12,7 +12,7 @@
     <itunes:owner>
       <itunes:name>Halt And Catch</itunes:name>
       <itunes:email>haltandcatchia@gmail.com</itunes:email>
-      </itunes:owner>
+    </itunes:owner>
     <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
     <itunes:category text="Technology" />
     <item>
@@ -22,7 +22,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3</guid>
       <pubDate>vie, 18 oct 2024 08:00:47 GMT</pubDate>
       <itunes:duration>00:10:36</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>El panorama móvil: Android 15, One UI 7, OnePlus 13, iPhone 16 Pro y más</title>
       <description>¡Hola a todos! En este video, repasamos las últimas noticias del mundo de la tecnología móvil. Hablaremos del lanzamiento estable de Android 15 para los Pixel, el nuevo Infinix Zero Flip, las especulaciones sobre el primer smartphone con Snapdragon 8 Elite en India, el nuevo ColorOS 15 de Oppo, el diseño del OnePlus 13, las nuevas exigencias de la App Store de la UE a los desarrolladores, el éxito de ventas del Pixel 9, el unboxing submarino del Realme GT7 Pro y, por último, comparamos el iPhone 16 Pro con el iPhone 16 Pro Max. ¡No te pierdas las últimas novedades y análisis!</description>
@@ -30,7 +30,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3</guid>
       <pubDate>vie, 18 oct 2024 15:10:47 GMT</pubDate>
       <itunes:duration>00:07:46</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> 🚀 ¡Domina la Tecnología en 2024! - Desde Principiantes a Expertos </title>
       <description>¡Hola a todos! En este video, exploramos una serie de temas relacionados con la programación y el desarrollo web, desde lo básico hasta conceptos avanzados. Cubriremos temas como Spring Boot, debugging con VisualVM, CI/CD con Gitlab, frameworks como Django y Angular, y herramientas como GitHub y Terraform. ¡Únete a nosotros para aprender algo nuevo y mejorar tus habilidades de desarrollo! 
@@ -50,7 +50,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3</guid>
       <pubDate>sáb, 19 oct 2024 08:44:07 GMT</pubDate>
       <itunes:duration>00:19:37</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Guerra de Gigantes! Lo último en Smartphones, Tablets y la lucha por el dominio tecnológico </title>
       <description>¡Hola a todos! En este video, hablamos de las últimas noticias del mundo tecnológico, incluyendo rumores sobre el iPhone 17, el nuevo procesador Snapdragon 8 Elite y las luchas de Apple con su Vision Pro. También exploraremos el lanzamiento del OnePlus 13, la creciente influencia de vivo en India, y las posibles sanciones a Huawei. Además, discutiremos las especificaciones del Galaxy S25 Ultra y el nuevo iPad mini, así como los desafíos que enfrenta la producción de chips de Apple. ¡Prepárense para una dosis de información tecnológica! 
@@ -70,7 +70,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3</guid>
       <pubDate>sáb, 19 oct 2024 08:47:58 GMT</pubDate>
       <itunes:duration>00:14:51</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> ¡Tecnología, Salud y Futuro! - Lo más destacado de la semana </title>
       <description>¡Hola! En este video, exploramos las últimas tendencias tecnológicas y noticias del mundo de la programación, la inteligencia artificial y la medicina. Desde técnicas para optimizar tu flujo de trabajo hasta el desarrollo de algoritmos que reducen el consumo de energía, cubrimos temas interesantes y relevantes para desarrolladores, estudiantes y cualquier persona interesada en la innovación. ¡Prepárate para una dosis de conocimiento y debates apasionantes! 
@@ -90,7 +90,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
       <pubDate>dom, 20 oct 2024 07:03:56 GMT</pubDate>
       <itunes:duration>00:17:26</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡iPhone 17, Samsung S25 y más! Lo último en tecnología y rumores. </title>
       <description>¡Hola a todos! En este video les traigo un resumen de las últimas noticias del mundo de la tecnología, con novedades sobre los próximos iPhones, Samsung Galaxy, Apple TV y mucho más. Desde filtraciones sobre el diseño del iPhone SE 4 hasta los problemas que enfrentan los usuarios del iPhone 16 Pro, ¡no te pierdas este análisis de las últimas tendencias! 
@@ -110,7 +110,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
       <pubDate>dom, 20 oct 2024 07:23:08 GMT</pubDate>
       <itunes:duration>00:14:56</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> 🔥  Tech &amp; Trends: Lo Nuevo en IA, Desarrollo y Más  🔥 </title>
       <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias tecnológicas! Hoy hablamos de modelos de estado-espacio que aprenden en contexto, automatización de respaldo con Ansible, AWS S3 y Cron, configuración de Supabase autohospedada con Authelia y Caddy, pruebas unitarias y UI en React, análisis de confiabilidad de circuitos lógicos con WCCA, diseño de RTC con calibración automática para controladores programables basados en ESP8266, extensiones esenciales de VS Code para programadores principiantes, la utilización de Apple Vision Pro en salas de operaciones, el lanzamiento de Svelte 5 y un nuevo algoritmo que reduce el consumo de energía de la IA en un 95%. ¡Prepárense para un viaje emocionante a través del mundo de la tecnología! 
@@ -130,7 +130,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
       <pubDate>dom, 20 oct 2024 09:13:48 GMT</pubDate>
       <itunes:duration>00:20:14</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Guerra de Smartphones! 💥 Novedades y Rumores de iPhone, Samsung, Xiaomi y Más 📱 </title>
       <description>¡Hola a todos! Bienvenidos a mi canal. Hoy les traigo un resumen de las últimas noticias del mundo tech, con novedades sobre los próximos lanzamientos de Apple, Samsung, Xiaomi y Vivo. Desde el iPhone 15 Pro hasta el Galaxy S25 Ultra, cubrimos las mejores ofertas, rumores y filtraciones. ¡No se lo pierdan! 
@@ -150,7 +150,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
       <pubDate>dom, 20 oct 2024 09:21:11 GMT</pubDate>
       <itunes:duration>00:15:40</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>🔥🚀  Dominando las Tecnologías del Futuro: De Python a AI, Salesforce y Más! </title>
       <description>¡Bienvenidos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las mejores prácticas en desarrollo hasta la implementación de inteligencia artificial. Descubriremos trucos para acelerar el desarrollo en Python, aprenderemos a escalar aplicaciones Python con KEDA, y crearemos una característica de "Mostrar contraseña" con HTML, CSS y JavaScript. Además, profundizaremos en el mundo de Salesforce Marketing Cloud, la integración de AI en negocios y la creación de gráficos de precios de acciones con código Python. También analizaremos las mejores prácticas para escribir código limpio y mantenible en JavaScript, aprenderemos Rust de una manera "peligrosa", y desentrañaremos los misterios de MVCC en PostgreSQL. ¡Acompáñenme en este viaje por el mundo de la tecnología! 
@@ -170,7 +170,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3</guid>
       <pubDate>lun, 21 oct 2024 08:24:14 GMT</pubDate>
       <itunes:duration>00:15:16</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> ¡Tecnología al Máximo! Lo Nuevo en Smartphones, Robots y Realidad Aumentada </title>
       <description>¡Prepárate para un resumen de las noticias tecnológicas más importantes de la semana! Desde robots que resuelven cubos de Rubik hasta la biometría en tiempo real, te traemos los últimos avances en inteligencia artificial, realidad aumentada, teléfonos inteligentes y mucho más. ¡No te pierdas este análisis de los titulares más relevantes del mundo de la tecnología! 
@@ -190,7 +190,7 @@
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3</guid>
       <pubDate>lun, 21 oct 2024 08:27:11 GMT</pubDate>
       <itunes:duration>00:18:31</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> El Futuro de la Programación: Tendencias, Tecnologías y Recursos </title>
       <description>¡Bienvenidos a un nuevo episodio! Hoy exploraremos las últimas tendencias en desarrollo web y programación, desde las mejores herramientas y lenguajes para carreras globales, hasta la automatización de tareas con Python y la creación de aplicaciones web con React. ¡Acompáñame a descubrir las mejores prácticas y proyectos de código abierto que te ayudarán a mejorar tus habilidades y llevar tu desarrollo al siguiente nivel! 
@@ -210,7 +210,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3</guid>
       <pubDate>jue, 24 oct 2024 14:55:56 GMT</pubDate>
       <itunes:duration>00:16:22</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡El Futuro de la Tecnología Móvil Está Aquí! - Lo Último en Snapdragon, Android y Más </title>
       <description>¡Prepárate para un viaje al futuro de la tecnología! En este video, exploramos los últimos avances en smartphones, desde las cámaras de Qualcomm que prometen experiencias increíbles, hasta los nuevos chips Tensor G5 y G6 de Google que podrían revolucionar la industria. Hablamos de los últimos rumores sobre Samsung y OnePlus, incluyendo el lanzamiento de One UI 7 y el OnePlus 13, y analizamos si la promesa de 8 años de soporte para Snapdragon 8 Elite es real. ¡Además, te contamos sobre la fascinante tecnología de JVCKENWOOD que usa ondas cerebrales para crear música y videos!  No te pierdas este resumen de las noticias tecnológicas que te dejarán boquiabierto. 
@@ -230,7 +230,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
       <pubDate>jue, 24 oct 2024 14:59:28 GMT</pubDate>
       <itunes:duration>00:14:45</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> Tech Revolutions: IA, Ciberseguridad, Salud y Más </title>
       <description>¡Bienvenidos a un nuevo video! Hoy hablaremos de temas que van desde la seguridad en el comercio minorista hasta el avance de la tecnología. 🤖  Exploraremos cómo la IA está transformando la vigilancia y la detección de objetos en tiendas, la importancia de las aplicaciones offline-first para entornos con conectividad inestable, y qué nos dejará la década de los 2020s. 📰 También nos adentraremos en el mundo de WordPress y cómo su hosting puede elevar el diseño y desarrollo de tu sitio web. 💻  Prepárense para noticias impactantes como la filtración de datos de 100 millones de personas en un ataque a Change Healthcare, y los descubrimientos científicos sobre el sistema linfático del cerebro. 🧠  ¡No te pierdas las últimas novedades sobre IA, como la inferencia 3 veces más rápida de Cerebras y los modelos de Llama cuantificados! ⚡️  Además, hablaremos de nuevas herramientas de desarrollo como Bitwarden SDK y TypeSchema. ¡No te pierdas este video lleno de información tecnológica e innovaciones! 🚀
@@ -250,7 +250,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3</guid>
       <pubDate>vie, 25 oct 2024 10:04:01 GMT</pubDate>
       <itunes:duration>00:18:07</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Black Friday Temprano! Ofertas Locas en Apple, Xiaomi, Oppo y Más 🤯</title>
       <description>¡Prepárate para una semana llena de novedades tecnológicas! En este video te cuento todo sobre las mejores ofertas anticipadas de Black Friday para iPads y productos Apple, las últimas noticias sobre Huawei y sus chips, los nuevos lanzamientos de Oppo y Xiaomi,  la tecnología innovadora de OxygenOS 15,  y el futuro de las cámaras de los smartphones con Qualcomm. ¡No te lo pierdas!
@@ -270,7 +270,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3</guid>
       <pubDate>vie, 25 oct 2024 10:07:10 GMT</pubDate>
       <itunes:duration>00:17:38</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Domina el Desarrollo Web: Trucos, Herramientas y Buenas Prácticas! </title>
       <description>¡Hola a todos! En este video, exploramos las últimas tendencias en desarrollo web y software. Hablaremos de temas como la implementación de aplicaciones Spring Boot con Docker, los conceptos básicos del hook useState de React con TypeScript, los plugins más útiles de Jenkins y sus casos de uso, consejos para sobrevivir a un bootcamp de programación, 20 trucos de JavaScript que todo desarrollador debería conocer, alternativas al comando ls de Zsh, expresiones en Power Automate, las mejores prácticas para el uso de try-catch en PHP, y la experiencia de crear una biblioteca open source para identificar excepciones en tiempo real con Machine Learning. ¡Prepárate para aprender cosas nuevas! 
@@ -290,7 +290,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3</guid>
       <pubDate>lun, 28 oct 2024 08:04:39 GMT</pubDate>
       <itunes:duration>00:19:05</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡El mundo móvil en ebullición! 🤯 Novedades, rumores y noticias de Apple, Samsung, Google, Huawei y más. </title>
       <description>¡Bienvenidos a un nuevo resumen de las noticias tecnológicas más relevantes! Esta semana, Honor sorprende con MagicOS 9.0 y su roadmap para Android 15. Mientras tanto, Indonesia prohíbe el iPhone 16 por incumplimiento de Apple. Huawei apuesta por HarmonyOS NEXT para ser el tercer sistema operativo móvil del mundo. ¡Prepárense para el anuncio del Nintendo Switch 2! Además, se filtran detalles del iPhone SE 4 y Google Gemini se prepara para dar un salto hacia la ciencia ficción. ¡Todo esto y mucho más en este video! 
@@ -310,7 +310,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3</guid>
       <pubDate>lun, 28 oct 2024 08:08:28 GMT</pubDate>
       <itunes:duration>00:15:35</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> ¡Devs al rescate!  -  Tendencias tecnológicas, consejos y herramientas para tu próximo proyecto 🚀 </title>
       <description>¡Bienvenidos a un nuevo video! Hoy vamos a hablar de temas interesantes del mundo tech, desde el desarrollo web hasta la inteligencia artificial. En este video, exploraremos las diferencias entre Axios y Fetch para tus proyectos,  analizaremos cómo diseñar un sistema de incentivos perfecto, y te enseñaremos algunos trucos para aprovechar al máximo Google Sheets. Además, discutiremos el futuro de la computación en la nube, compararemos el rendimiento de RabbitMQ con Web MQTT Plugin frente a Node.js, y profundizaremos en la importancia de la psicología del usuario en el diseño de interfaces.¡No te pierdas nuestro análisis sobre la computación en la nube verde, una guía para principiantes sobre Terraform y AWS, y una advertencia sobre los peligros de la recursión en la unificación!Y finalmente, descubriremos cómo la inteligencia artificial puede optimizar el contenido en redes sociales. ¡Acompáñame en este recorrido informativo y apasionante! 
@@ -330,7 +330,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3</guid>
       <pubDate>mar, 29 oct 2024 07:20:27 GMT</pubDate>
       <itunes:duration>00:19:21</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> ¡Tecnología en Evolución! Novedades de Apple, Google, y Más 🤯 </title>
       <description>¡Prepárate para un resumen de las últimas noticias del mundo de la tecnología! Desde nuevos lanzamientos de Apple y Google hasta filtraciones sobre el futuro de la inteligencia artificial, exploraremos los titulares más importantes de la semana. Descubriremos las novedades de Netflix, la revolución en el monitoreo hormonal, y las mejoras que se avecinan en los dispositivos de Apple y Google. ¡No te pierdas este análisis completo! 
@@ -350,7 +350,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3</guid>
       <pubDate>mar, 29 oct 2024 07:23:09 GMT</pubDate>
       <itunes:duration>00:13:26</itunes:duration>
-      </item>
+    </item>
     <item>
       <title> Postgres, AI, y Desarrollando con Pruebas: Un Viaje Tecnológico </title>
       <description>¡Hola! En este video, exploramos una variedad de temas tecnológicos, desde el desarrollo de software hasta el análisis de datos. Cubriremos temas como la integración de Prisma con PostgreSQL, las mejores prácticas de pruebas de regresión visual, las herramientas y estrategias de monitoreo de PostgreSQL, y una introducción a la metodología ágil. También nos adentraremos en el manejo de excepciones en Java, la abstracción en la programación orientada a objetos, y cómo ejecutar modelos de lenguaje de gran tamaño en su propio servidor. Además, exploraremos el trabajo con bases de datos en Python, cómo usar OAuth con Go y la API de Spotify, y algunos ejemplos prácticos de procesamiento de datos con CSV. ¡Prepárense para un viaje lleno de información y aprendizaje! 
@@ -372,7 +372,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3</guid>
       <pubDate>mié, 30 oct 2024 08:20:52 GMT</pubDate>
       <itunes:duration>00:22:31</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Dominando el Mundo Tech! - De JavaScript a React y Más 🤯 </title>
       <description>¡Hola a todos! En este video, te sumergimos en el fascinante mundo de la programación. Desde los conceptos básicos de JavaScript y Python hasta técnicas avanzadas para optimizar tu código, ¡tenemos algo para todos! Aprenderás sobre arrays en JavaScript, las ventajas de Set.has(), cómo encontrar la mediana de dos arrays ordenados, y mucho más.  También exploraremos la construcción de web scrapers con Python, el manejo de notificaciones push con React Native Firebase, y consejos para escribir código eficiente y legible en Python. ¡Prepárate para aprender, crecer y construir proyectos increíbles! 
@@ -394,7 +394,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3</guid>
       <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
       <itunes:duration>00:19:53</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Domina las últimas tendencias en desarrollo web! 🚀 </title>
       <description>¡Bienvenidos a un nuevo video! Hoy exploraremos un conjunto de temas de desarrollo web y tecnología que seguramente te serán de utilidad, desde la automatización de validación de API hasta la selección de frameworks de Node.js. Aprenderemos sobre patrones de programación avanzados, cómo evitar trampas comunes en JavaScript, las mejores herramientas para el desarrollo web rápido, y mucho más. ¡Prepárate para un viaje emocionante a través del mundo del desarrollo! 
@@ -416,7 +416,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3</guid>
       <pubDate>vie, 01 nov 2024 10:16:41 GMT</pubDate>
       <itunes:duration>00:21:10</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>¡Dominando Java, Keycloak y la Nube!  🚀 Halloween Coding &amp; Más 🎃 </title>
       <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias en desarrollo y tecnología! Esta semana cubriremos temas tan interesantes como la programación con Java 8, la gestión de roles en Keycloak, la solución de problemas en Mac, la trazabilidad distribuida con Jaeger, la ética en la IA, la supervisión de la infraestructura, las nuevas características de Java 21, las redes para especialistas en la nube y una introducción a la API de administración de Keycloak. ¡Prepárense para aprender y discutir! 
@@ -438,7 +438,452 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3</guid>
       <pubDate>sáb, 02 nov 2024 09:10:00 GMT</pubDate>
       <itunes:duration>00:23:37</itunes:duration>
-      </item>
+    </item>
+    <item>
+      <title> 🔥  Las Mejores Herramientas y Recursos para Desarrolladores en 2024  🔥 </title>
+      <description>¡Hola a todos! En este video, exploramos las últimas noticias del mundo de la tecnología, incluyendo: herramientas para simular APIs, técnicas para reutilizar lógica de excepciones en Python, comparaciones entre PWA y apps nativas, recursos para aprender Node.js, solución de problemas con Power Automate, construcción de apps web escalables con Next.js 15,  el servidor web Gunicorn para aplicaciones Python, el lanzamiento de AWS Valkey, una guía paso a paso para crear APIs, protección contra bots con SafeLine 7.0 y una alternativa al plugin Thunder Client para VS Code. ¡No te lo pierdas! 
+Links:
+1. https://dev.to/esproc_spl/concatenate-a-set-of-indefinite-number-of-white-space-separated-rows-into-a-comma-<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Halt And Catch</title>
+    <link>https://github.com/danielnunezcano/haltandcatch/</link>
+    <description>¡Bienvenidos a Halt And Catch! Subimos dos episodios diarios para mantenerte al tanto de lo último en el mundo de la tecnología. En el primer episodio del día, te traemos las noticias más importantes del ámbito tecnológico: innovaciones, avances y tendencias que están cambiando el mundo. En el segundo episodio, te mantenemos al día con todas las novedades sobre teléfonos móviles: lanzamientos, rumores, análisis y mucho más. ¡No te pierdas ningún detalle y únete a nuestra comunidad de entusiastas de la tecnología!</description>
+    <language>es-es</language>
+    <itunes:author>Halt And Catch</itunes:author>
+    <itunes:subtitle>Noticias diarias de tecnología y móviles.</itunes:subtitle>
+    <itunes:summary>Halt And Catch es tu fuente diaria de noticias tecnológicas. Todos los días cubrimos las novedades más importantes en tecnología, incluyendo lanzamientos de dispositivos, avances en software, inteligencia artificial, y mucho más. Además, te traemos toda la información que necesitas sobre el mundo de los teléfonos móviles, desde los rumores hasta los análisis más detallados. ¡No te pierdas nuestros episodios para mantenerte al día en este emocionante mundo!</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Halt And Catch</itunes:name>
+      <itunes:email>haltandcatchia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
+    <itunes:category text="Technology" />
+    <item>
+      <title>¡De IA a gatos líquidos! Lo más destacado de la semana en tecnología</title>
+      <description>¡Bienvenidos a un nuevo resumen de las noticias más interesantes del mundo tech! En este video, te contamos sobre la inversión de Telefónica en un motor de búsqueda con IA, un experto en audio accidental, cómo elegir el tipo de dato SQL adecuado, un nuevo juego de mesa llamado Crokinole, una función para personalizar resúmenes de audio, una extensión para conectar Postgres y parquet, un abogado especializado en inmigración para startups que responde a preguntas, una herramienta de rotación de imágenes de Adobe impulsada por IA, un tutorial de desarrollo de juegos en Lisp y un estudio que revela que los gatos son casi líquidos. ¡Prepárense para una dosis de innovación, tecnología y entretenimiento!</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3" length="1910421" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_technology.mp3</guid>
+      <pubDate>vie, 18 oct 2024 08:00:47 GMT</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+    </item>
+    <item>
+      <title>El panorama móvil: Android 15, One UI 7, OnePlus 13, iPhone 16 Pro y más</title>
+      <description>¡Hola a todos! En este video, repasamos las últimas noticias del mundo de la tecnología móvil. Hablaremos del lanzamiento estable de Android 15 para los Pixel, el nuevo Infinix Zero Flip, las especulaciones sobre el primer smartphone con Snapdragon 8 Elite en India, el nuevo ColorOS 15 de Oppo, el diseño del OnePlus 13, las nuevas exigencias de la App Store de la UE a los desarrolladores, el éxito de ventas del Pixel 9, el unboxing submarino del Realme GT7 Pro y, por último, comparamos el iPhone 16 Pro con el iPhone 16 Pro Max. ¡No te pierdas las últimas novedades y análisis!</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3" length="1400877" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-18_noticiero_phones.mp3</guid>
+      <pubDate>vie, 18 oct 2024 15:10:47 GMT</pubDate>
+      <itunes:duration>00:07:46</itunes:duration>
+    </item>
+    <item>
+      <title> 🚀 ¡Domina la Tecnología en 2024! - Desde Principiantes a Expertos </title>
+      <description>¡Hola a todos! En este video, exploramos una serie de temas relacionados con la programación y el desarrollo web, desde lo básico hasta conceptos avanzados. Cubriremos temas como Spring Boot, debugging con VisualVM, CI/CD con Gitlab, frameworks como Django y Angular, y herramientas como GitHub y Terraform. ¡Únete a nosotros para aprender algo nuevo y mejorar tus habilidades de desarrollo! 
+      Links:
+      1. https://medium.com/@poojaauma/spring-boot-for-beginners-must-know-concepts-with-practical-examples-c4dc97b26101?source=rss------programming-5
+      2. https://levelup.gitconnected.com/how-to-identify-your-code-bottlenecks-using-visualvm-90e258e4c71b?source=rss------programming-5
+      3. https://dev.to/raju_nandi_a2f810bf3664b6/complete-cicd-with-gitlab-kubernetes-runner-gitlab-kas-agent-kaniko-and-other-devops-tools-a8e
+      4. https://dev.to/itprovn/tom-tat-ve-cong-nghe-frameworks-va-tools-ahl
+      5. https://dev.to/berrydzhobs/authentication-system-in-django-5gdm
+      6. https://blog.devgenius.io/python-programming-fundamentals-a-beginners-guide-102384800f26?source=rss------programming-5
+      7. https://dev.to/kiran_baliga/a-beginners-guide-to-github-3966
+      8. https://dev.to/aapgs_b8d41d300e2d50c4e5d/why-angular-remains-a-top-choice-for-web-development-in-2024--2pnj
+      9. https://dev.to/vishal_tiwari_114f21d14e5/top-challenging-and-hardest-javascript-technical-interview-questions-with-solutions-3189
+      10. https://dev.to/s3cloudhub/mastering-multi-cloud-infrastructure-with-terraform-a-game-changer-for-modern-it-563j
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3" length="3533337" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_technology.mp3</guid>
+      <pubDate>sáb, 19 oct 2024 08:44:07 GMT</pubDate>
+      <itunes:duration>00:19:37</itunes:duration>
+    </item>
+    <item>
+      <title>¡Guerra de Gigantes! Lo último en Smartphones, Tablets y la lucha por el dominio tecnológico </title>
+      <description>¡Hola a todos! En este video, hablamos de las últimas noticias del mundo tecnológico, incluyendo rumores sobre el iPhone 17, el nuevo procesador Snapdragon 8 Elite y las luchas de Apple con su Vision Pro. También exploraremos el lanzamiento del OnePlus 13, la creciente influencia de vivo en India, y las posibles sanciones a Huawei. Además, discutiremos las especificaciones del Galaxy S25 Ultra y el nuevo iPad mini, así como los desafíos que enfrenta la producción de chips de Apple. ¡Prepárense para una dosis de información tecnológica! 
+      Links:
+      1. https://www.gsmarena.com/iphone_17_slim___air_specs_reiterated_along_with_iphone_17_pro_and_pro_maxs-news-64994.php
+      2. https://www.gsmarena.com/snapdragon_8_elite_rules_antutu_with_apple_a18_pro_defying_score-news-64993.php
+      3. https://9to5mac.com/2024/10/18/cheaper-apple-vision-pro-developers/
+      4. https://www.phonearena.com/news/the-oneplus-13-will-dominate-this-january--pa-show-e22_id163905
+      5. https://www.phonearena.com/news/u.s.-lawmakers-seek-to-tighten-chip-sanctions-against-huawei-and-its-suppliers_id163899
+      6. https://www.gsmarena.com/vivo_is_the_new_king_of_the_indian_smartphone_market-news-64991.php
+      7. https://9to5mac.com/2024/10/18/happy-hour-508/
+      8. https://www.sammobile.com/news/galaxy-s25-ultra-everything-that-has-leaked-so-far/
+      9. https://www.gsmarena.com/ipad_mini_2024_boasts_8gb_ram_as_confirmed_by_geekbench_listing-news-64986.php
+      10. https://9to5mac.com/2024/10/18/tsmc-may-have-breached-us-sanctions-apple-chip-production-could-be-at-risk/
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3" length="2673657" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-19_noticiero_phones.mp3</guid>
+      <pubDate>sáb, 19 oct 2024 08:47:58 GMT</pubDate>
+      <itunes:duration>00:14:51</itunes:duration>
+    </item>
+    <item>
+      <title> ¡Tecnología, Salud y Futuro! - Lo más destacado de la semana </title>
+      <description>¡Hola! En este video, exploramos las últimas tendencias tecnológicas y noticias del mundo de la programación, la inteligencia artificial y la medicina. Desde técnicas para optimizar tu flujo de trabajo hasta el desarrollo de algoritmos que reducen el consumo de energía, cubrimos temas interesantes y relevantes para desarrolladores, estudiantes y cualquier persona interesada en la innovación. ¡Prepárate para una dosis de conocimiento y debates apasionantes! 
+      Links:
+      1. https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk
+      2. https://dev.to/sudhanshu_developer/mastering-state-management-with-the-usereducer-hook-in-react-2mc
+      3. https://dev.to/prashantrmishra/minimum-division-operations-to-make-array-non-decreasing-4b5g
+      4. https://dev.to/prashantrmishra/count-substrings-with-k-frequency-characters-i-33nj
+      5. https://dev.to/gziz/run-autogen-generated-code-in-the-cloud-9bb
+      6. https://time.com/7093536/surgeons-apple-vision-pro/
+      7. https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9
+      8. https://github.com/norvig/pytudes/blob/main/ipynb/Triplets.ipynb
+      9. https://www.npmjs.com/package/svelte
+      10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3139785" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
+      <pubDate>dom, 20 oct 2024 07:03:56 GMT</pubDate>
+      <itunes:duration>00:17:26</itunes:duration>
+    </item>
+    <item>
+      <title>¡iPhone 17, Samsung S25 y más! Lo último en tecnología y rumores. </title>
+      <description>¡Hola a todos! En este video les traigo un resumen de las últimas noticias del mundo de la tecnología, con novedades sobre los próximos iPhones, Samsung Galaxy, Apple TV y mucho más. Desde filtraciones sobre el diseño del iPhone SE 4 hasta los problemas que enfrentan los usuarios del iPhone 16 Pro, ¡no te pierdas este análisis de las últimas tendencias! 
+      Links:
+      1. https://9to5mac.com/2024/10/19/iphone-se-4-dummy-units/
+      2. https://9to5mac.com/2024/10/19/iphone-16-pro-review-one-month-later/
+      3. https://www.digitaltrends.com/mobile/apple-iphone-16-pro-max-vs-iphone-14-pro-max/
+      4. https://www.phonearena.com/news/marshall-emberton-ii-amazon-deal-41-percent-off_id163888
+      5. https://www.digitaltrends.com/mobile/apple-iphone-slim-air-leak-specs-features/
+      6. https://www.phonearena.com/news/is-tim-cook-leaving-apple_id163913
+      7. https://www.digitaltrends.com/mobile/apple-iphone-16-pro-user-reports-freeze-app-camera-glitch-issue-ios-18/
+      8. https://www.digitaltrends.com/mobile/this-samsung-galaxy-s25-ultra-leak-unveils-its-colors/
+      9. https://9to5mac.com/2024/10/19/kitcast-2-0/
+      10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2691153" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
+      <pubDate>dom, 20 oct 2024 07:23:08 GMT</pubDate>
+      <itunes:duration>00:14:56</itunes:duration>
+    </item>
+    <item>
+      <title> 🔥  Tech &amp; Trends: Lo Nuevo en IA, Desarrollo y Más  🔥 </title>
+      <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias tecnológicas! Hoy hablamos de modelos de estado-espacio que aprenden en contexto, automatización de respaldo con Ansible, AWS S3 y Cron, configuración de Supabase autohospedada con Authelia y Caddy, pruebas unitarias y UI en React, análisis de confiabilidad de circuitos lógicos con WCCA, diseño de RTC con calibración automática para controladores programables basados en ESP8266, extensiones esenciales de VS Code para programadores principiantes, la utilización de Apple Vision Pro en salas de operaciones, el lanzamiento de Svelte 5 y un nuevo algoritmo que reduce el consumo de energía de la IA en un 95%. ¡Prepárense para un viaje emocionante a través del mundo de la tecnología! 
+      Links:
+      1. https://dev.to/mikeyoung44/state-space-models-adapt-by-gradient-descent-learning-in-context-241l
+      2. https://dev.to/niranyadav/your-current-backup-automation-is-missing-the-key-ansible-aws-s3-and-cron-2mb8
+      3. https://dev.to/lmntixdev_9b7c97bf92b3ef7/self-hosted-supabase-setup-with-authelia-and-caddy-4p11
+      4. https://dev.to/kkr0423/react-basicsunit-testui-44ff
+      5. https://dev.to/zhangzhuyue/use-wcca-to-analyze-the-reliablity-of-transistor-logic-circuit-1mji
+      6. https://dev.to/zhangzhuyue/rtc-design-with-automatic-cloud-calibration-for-simple-programmable-controller-based-on-esp8266-2lo9
+      7. https://dev.to/dostmd96/5-must-have-vs-code-extensions-for-new-programmers-tools-that-go-beyond-the-basics-4of4
+      8. https://time.com/7093536/surgeons-apple-vision-pro/
+      9. https://www.npmjs.com/package/svelte
+      10. https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3" length="3644253" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_technology.mp3</guid>
+      <pubDate>dom, 20 oct 2024 09:13:48 GMT</pubDate>
+      <itunes:duration>00:20:14</itunes:duration>
+    </item>
+    <item>
+      <title>¡Guerra de Smartphones! 💥 Novedades y Rumores de iPhone, Samsung, Xiaomi y Más 📱 </title>
+      <description>¡Hola a todos! Bienvenidos a mi canal. Hoy les traigo un resumen de las últimas noticias del mundo tech, con novedades sobre los próximos lanzamientos de Apple, Samsung, Xiaomi y Vivo. Desde el iPhone 15 Pro hasta el Galaxy S25 Ultra, cubrimos las mejores ofertas, rumores y filtraciones. ¡No se lo pierdan! 
+      Links:
+      1. https://www.gsmarena.com/deals_iphone_15_pro_and_15_pro_max_deals_new_ipad_mini_arrives_ipad_air_discounts-news-64987.php
+      2. https://www.phonearena.com/news/iphone-se-4-dummies-include-plus-size-model_id163921
+      3. https://9to5mac.com/2024/10/19/iphone-se-4-dummy-units/
+      4. https://www.xda-developers.com/potential-sneak-peek-intel-core-200-specifications/
+      5. https://9to5mac.com/2024/10/19/iphone-16-pro-review-one-month-later/
+      6. https://www.digitaltrends.com/mobile/apple-iphone-16-pro-max-vs-iphone-14-pro-max/
+      7. https://www.gsmarena.com/xiaomi_14t_vs_14t_pro_review_battery_camera_price_compared-news-64928.php
+      8. https://www.digitaltrends.com/mobile/this-samsung-galaxy-s25-ultra-leak-unveils-its-colors/
+      9. https://www.gsmarena.com/vivo_x200_x200_pro_china_price_sale_date-news-64995.php
+      10. https://www.sammobile.com/news/vivo-overtakes-samsung-india-biggest-smartphone-brand-q3-2024/
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3" length="2822697" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-20_noticiero_phones.mp3</guid>
+      <pubDate>dom, 20 oct 2024 09:21:11 GMT</pubDate>
+      <itunes:duration>00:15:40</itunes:duration>
+    </item>
+    <item>
+      <title>🔥🚀  Dominando las Tecnologías del Futuro: De Python a AI, Salesforce y Más! </title>
+      <description>¡Bienvenidos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las mejores prácticas en desarrollo hasta la implementación de inteligencia artificial. Descubriremos trucos para acelerar el desarrollo en Python, aprenderemos a escalar aplicaciones Python con KEDA, y crearemos una característica de "Mostrar contraseña" con HTML, CSS y JavaScript. Además, profundizaremos en el mundo de Salesforce Marketing Cloud, la integración de AI en negocios y la creación de gráficos de precios de acciones con código Python. También analizaremos las mejores prácticas para escribir código limpio y mantenible en JavaScript, aprenderemos Rust de una manera "peligrosa", y desentrañaremos los misterios de MVCC en PostgreSQL. ¡Acompáñenme en este viaje por el mundo de la tecnología! 
+      Links:
+      1. https://python.plainenglish.io/10-python-shortcuts-for-faster-development-89e5428762cf?source=rss------programming-5
+      2. https://python.plainenglish.io/event-driven-scaling-of-python-applications-in-azure-kubernetes-service-aks-using-keda-d5b2f6cba293?source=rss------programming-5
+      3. https://dev.to/wizdomtek/how-to-create-an-advanced-show-password-feature-using-html-css-and-javascript-ndn
+      4. https://dev.to/itechcloud_solution_01/best-practices-for-salesforce-marketing-cloud-in-2024-h0f
+      5. https://dev.to/laxmi_williams/how-to-transform-your-clients-business-with-ai-integration-services-opo
+      6. https://dev.to/dm8ry/python-code-that-generates-a-stock-price-chart-for-the-last-n-days-g8a
+      7. https://dev.to/holehuy/learning-aws-dva-day-2-ec2-instance-store-nlh
+      8. https://dev.to/wizdomtek/best-practices-for-writing-clean-and-maintainable-code-in-javascript-1phb
+      9. https://cliffle.com/p/dangerust/
+      10. https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3" length="2750229" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_technology.mp3</guid>
+      <pubDate>lun, 21 oct 2024 08:24:14 GMT</pubDate>
+      <itunes:duration>00:15:16</itunes:duration>
+    </item>
+    <item>
+      <title> ¡Tecnología al Máximo! Lo Nuevo en Smartphones, Robots y Realidad Aumentada </title>
+      <description>¡Prepárate para un resumen de las noticias tecnológicas más importantes de la semana! Desde robots que resuelven cubos de Rubik hasta la biometría en tiempo real, te traemos los últimos avances en inteligencia artificial, realidad aumentada, teléfonos inteligentes y mucho más. ¡No te pierdas este análisis de los titulares más relevantes del mundo de la tecnología! 
+      Links:
+      1. https://www.ubergizmo.com/2024/10/necs-real-time-biometric-authentication-for-crowded-spaces/?utm_source=mainrss
+      2. https://www.ubergizmo.com/2024/10/mitsubishi-electric-tokufastbot-worlds-fastest-puzzle-cube-solving-robot/?utm_source=mainrss
+      3. https://www.ubergizmo.com/2024/10/eco-friendly-innovation-sharps-a0-eposter-wins-big-at-ceatec-2024/?utm_source=mainrss
+      4. https://www.ubergizmo.com/2024/10/tdk-ar-retinal-glasses-technology-upgraded-at-ceatec-2024/?utm_source=mainrss
+      5. https://www.phonearena.com/news/unreleased-oneplus-13-surfaces-at-an-esports-event_id163927
+      6. https://www.sammobile.com/news/samsung-galaxy-z-fold-special-edition-price-release-date/
+      7. https://9to5mac.com/2024/10/20/apple-skipping-ipad-11-apple-intelligence/
+      8. https://www.gsmarena.com/vivo_unveils_x200_x200_pro_and_x200_pro_mini_week_42_in_review-news-64984.php
+      9. https://www.digitaltrends.com/mobile/apple-intelligence-report-ios-ai-features-chatgpt-future-research/
+      10. https://www.digitaltrends.com/mobile/android-15-when-will-my-phone-get-the-update/
+      </description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3" length="3335805" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-21_noticiero_phones.mp3</guid>
+      <pubDate>lun, 21 oct 2024 08:27:11 GMT</pubDate>
+      <itunes:duration>00:18:31</itunes:duration>
+    </item>
+    <item>
+      <title> El Futuro de la Programación: Tendencias, Tecnologías y Recursos </title>
+      <description>¡Bienvenidos a un nuevo episodio! Hoy exploraremos las últimas tendencias en desarrollo web y programación, desde las mejores herramientas y lenguajes para carreras globales, hasta la automatización de tareas con Python y la creación de aplicaciones web con React. ¡Acompáñame a descubrir las mejores prácticas y proyectos de código abierto que te ayudarán a mejorar tus habilidades y llevar tu desarrollo al siguiente nivel! 
+Links:
+1. https://medium.com/@anupamsingh696/best-programming-language-for-global-careers-e8e528c1a509?source=rss------programming-5
+2. https://dev.to/safdarali/everything-you-need-to-know-about-python-lists-1nca
+3. https://dev.to/dmitrat/witengine-building-modular-controllers-for-script-automation-5g5e
+4. https://medium.com/@kelanach/implementing-web-scraping-and-ai-analysis-using-golang-fiber-and-claude-sonnet-3-5-6de155128357?source=rss------programming-5
+5. https://dev.to/snikidev/creating-a-simple-rag-in-python-with-azureopenai-and-llamaindex-3loc
+6. https://dev.to/gitprotect/the-importance-of-verifying-your-github-environments-security-controls-11cf
+7. https://dev.to/ritiktyagi27/best-telegram-integrations-1c1c
+8. https://dev.to/saquib_hussain_0d67ba0ead/deploying-static-react-app-on-aws-s3-bucket-gln
+9. https://play2048.co
+10. https://github.com/dittofeed/dittofeed/tree/main/packages/emailo
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3" length="2948517" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_technology.mp3</guid>
+      <pubDate>jue, 24 oct 2024 14:55:56 GMT</pubDate>
+      <itunes:duration>00:16:22</itunes:duration>
+    </item>
+    <item>
+      <title>¡El Futuro de la Tecnología Móvil Está Aquí! - Lo Último en Snapdragon, Android y Más </title>
+      <description>¡Prepárate para un viaje al futuro de la tecnología! En este video, exploramos los últimos avances en smartphones, desde las cámaras de Qualcomm que prometen experiencias increíbles, hasta los nuevos chips Tensor G5 y G6 de Google que podrían revolucionar la industria. Hablamos de los últimos rumores sobre Samsung y OnePlus, incluyendo el lanzamiento de One UI 7 y el OnePlus 13, y analizamos si la promesa de 8 años de soporte para Snapdragon 8 Elite es real. ¡Además, te contamos sobre la fascinante tecnología de JVCKENWOOD que usa ondas cerebrales para crear música y videos!  No te pierdas este resumen de las noticias tecnológicas que te dejarán boquiabierto. 
+Links:
+1. https://www.digitaltrends.com/mobile/qualcomm-made-the-future-of-smartphone-cameras-more-exciting-snapdragon-8-elite-isp/
+2. https://www.xda-developers.com/arm-reportedly-cancel-qualcomm-design-license/
+3. https://www.sammobile.com/news/one-ui-7-0-demoed-in-high-definition-galaxy-s24-ultra/
+4. https://www.phonearena.com/news/snapdragon-8-elite-8-years-of-support_id164079
+5. https://www.gsmarena.com/big_leak_details_specs_for_google_tensor_g5_and_g6_-news-65048.php
+6. https://www.sammobile.com/news/android-15-update-one-ui-7-samsung-galaxy-eligibility/
+7. https://www.ubergizmo.com/2024/10/jvc-kenwood-brainwave-activated-ai-driven-music-composition-and-video-creation-ceatec-2024/?utm_source=mainrss
+8. https://www.phonearena.com/news/googles-tensor-g5-and-g6-will-reportedly-be-a-leap-forward-with-tsmcs-3nm-process_id164059
+9. https://www.gsmarena.com/oneplus_13_gets_an_official_unboxing_video_before_its_unveiling-news-65043.php
+10. https://www.digitaltrends.com/mobile/google-pixel-phones-may-finally-catch-up-with-the-iphone-tensor-g5-tsmc-report/
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3" length="2656485" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-24_noticiero_phones.mp3</guid>
+      <pubDate>jue, 24 oct 2024 14:59:28 GMT</pubDate>
+      <itunes:duration>00:14:45</itunes:duration>
+    </item>
+    <item>
+      <title> Tech Revolutions: IA, Ciberseguridad, Salud y Más </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy hablaremos de temas que van desde la seguridad en el comercio minorista hasta el avance de la tecnología. 🤖  Exploraremos cómo la IA está transformando la vigilancia y la detección de objetos en tiendas, la importancia de las aplicaciones offline-first para entornos con conectividad inestable, y qué nos dejará la década de los 2020s. 📰 También nos adentraremos en el mundo de WordPress y cómo su hosting puede elevar el diseño y desarrollo de tu sitio web. 💻  Prepárense para noticias impactantes como la filtración de datos de 100 millones de personas en un ataque a Change Healthcare, y los descubrimientos científicos sobre el sistema linfático del cerebro. 🧠  ¡No te pierdas las últimas novedades sobre IA, como la inferencia 3 veces más rápida de Cerebras y los modelos de Llama cuantificados! ⚡️  Además, hablaremos de nuevas herramientas de desarrollo como Bitwarden SDK y TypeSchema. ¡No te pierdas este video lleno de información tecnológica e innovaciones! 🚀
+Links:
+1. https://dev.to/api4ai/transforming-retail-safety-the-role-of-ai-in-object-detection-and-store-surveillance-39og
+2. https://dev.to/k__/building-reliable-offline-first-apps-with-server-sync-a-strategic-approach-for-unstable-connectivity-4ig4
+3. https://dev.to/yunwei37/what-will-we-remember-from-the-2020s-looking-back-in-history-and-thinking-forward-25bp
+4. https://dev.to/wewphosting/how-wordpress-hosting-elevates-your-website-design-and-development-1i4a
+5. https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/
+6. https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time
+7. https://cerebras.ai/blog/cerebras-inference-3x-faster
+8. https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b
+9. https://typeschema.org/
+10. https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3" length="3263013" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_technology.mp3</guid>
+      <pubDate>vie, 25 oct 2024 10:04:01 GMT</pubDate>
+      <itunes:duration>00:18:07</itunes:duration>
+    </item>
+    <item>
+      <title>¡Black Friday Temprano! Ofertas Locas en Apple, Xiaomi, Oppo y Más 🤯</title>
+      <description>¡Prepárate para una semana llena de novedades tecnológicas! En este video te cuento todo sobre las mejores ofertas anticipadas de Black Friday para iPads y productos Apple, las últimas noticias sobre Huawei y sus chips, los nuevos lanzamientos de Oppo y Xiaomi,  la tecnología innovadora de OxygenOS 15,  y el futuro de las cámaras de los smartphones con Qualcomm. ¡No te lo pierdas!
+Links:
+1. https://www.digitaltrends.com/mobile/best-ipad-cyber-monday-deals-2023/
+2. https://www.digitaltrends.com/mobile/six-best-black-friday-apple-deals/
+3. https://www.phonearena.com/news/tsmc-halts-shipments-chips-for-client-end-up-in-huawei-devices_id164106
+4. https://9to5mac.com/2024/10/24/apple-october-event-confirmed-details/
+5. https://www.phonearena.com/news/oppo-find-x8-and-find-x8-pro-launched-with-impressive-cameras-and-cutting-edge-specs_id164102
+6. https://www.phonearena.com/news/oxygenos-15-unveiled-breakdown-new-features_id164077
+7. https://www.gsmarena.com/oppo_find_x8_and_x8_pro_announced__dimensity_9400_impressive_cameras_-news-65054.php
+8. https://www.gsmarena.com/xaomi_15_and_15_pro_official_renders_arrive_date_set_for_october_29-news-65052.php
+9. https://www.digitaltrends.com/mobile/qualcomm-made-the-future-of-smartphone-cameras-more-exciting-snapdragon-8-elite-isp/
+10. https://www.gsmarena.com/asus_rog_phone_9_pro_design_leaked_renders-news-65049.php
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3" length="3174237" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-25_noticiero_phones.mp3</guid>
+      <pubDate>vie, 25 oct 2024 10:07:10 GMT</pubDate>
+      <itunes:duration>00:17:38</itunes:duration>
+    </item>
+    <item>
+      <title>¡Domina el Desarrollo Web: Trucos, Herramientas y Buenas Prácticas! </title>
+      <description>¡Hola a todos! En este video, exploramos las últimas tendencias en desarrollo web y software. Hablaremos de temas como la implementación de aplicaciones Spring Boot con Docker, los conceptos básicos del hook useState de React con TypeScript, los plugins más útiles de Jenkins y sus casos de uso, consejos para sobrevivir a un bootcamp de programación, 20 trucos de JavaScript que todo desarrollador debería conocer, alternativas al comando ls de Zsh, expresiones en Power Automate, las mejores prácticas para el uso de try-catch en PHP, y la experiencia de crear una biblioteca open source para identificar excepciones en tiempo real con Machine Learning. ¡Prepárate para aprender cosas nuevas! 
+Links:
+1. https://dev.to/aungkohtat/deploying-a-spring-boot-banking-application-with-docker-n25
+2. https://dev.to/tymzap/the-beginners-guide-to-reacts-usestate-hook-the-absolute-basics-1gei
+3. https://dev.to/i_am_vesh/most-useful-jenkins-plugins-and-their-use-cases-14j9
+4. https://dev.to/ashleyd480/surviving-coding-bootcamp-lessons-learned-58am
+5. https://dev.to/jagroop2001/20-javascript-tricks-every-developer-must-know-4pcj
+6. https://dev.to/keploy/top-alternatives-to-the-zsh-ls-command-1lfm
+7. https://dev.to/wyattdave/power-automate-expressions-ljn
+8. https://dev.to/janak_kapadia_2c050fa4eb9/should-you-use-try-catch-around-entire-functions-in-php-best-practices-and-examples-2e9f
+9. https://dev.to/janak_kapadia_2c050fa4eb9/when-to-use-try-catch-in-php-a-developers-guide-with-practical-examples-4amc
+10. https://dev.to/openexcept/i-built-my-first-open-source-library-called-openexcept-to-help-identify-top-exceptions-automatically-with-ml-4bn9
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3" length="3437541" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_technology.mp3</guid>
+      <pubDate>lun, 28 oct 2024 08:04:39 GMT</pubDate>
+      <itunes:duration>00:19:05</itunes:duration>
+    </item>
+    <item>
+      <title>¡El mundo móvil en ebullición! 🤯 Novedades, rumores y noticias de Apple, Samsung, Google, Huawei y más. </title>
+      <description>¡Bienvenidos a un nuevo resumen de las noticias tecnológicas más relevantes! Esta semana, Honor sorprende con MagicOS 9.0 y su roadmap para Android 15. Mientras tanto, Indonesia prohíbe el iPhone 16 por incumplimiento de Apple. Huawei apuesta por HarmonyOS NEXT para ser el tercer sistema operativo móvil del mundo. ¡Prepárense para el anuncio del Nintendo Switch 2! Además, se filtran detalles del iPhone SE 4 y Google Gemini se prepara para dar un salto hacia la ciencia ficción. ¡Todo esto y mucho más en este video! 
+Links:
+1. https://www.phonearena.com/news/honor-magicos-9.0-android-15-update-roadmap_id164101
+2. https://9to5mac.com/2024/10/27/iphone-16-indonesia-ban/
+3. https://www.phonearena.com/news/huawei-makes-harmionyos-next-official-with-over-15k-apps_id164160
+4. https://www.xda-developers.com/nintendo-switch-2-reportedly-being-announced-very-soon/
+5. https://9to5mac.com/2024/10/27/three-things-apple-wont-announce-this-week/
+6. https://www.phonearena.com/news/snapdragon-8-elite-will-skyrocket-the-galaxy-s25-pa-show-e23_id164158
+7. https://www.phonearena.com/news/iphone-16-banned-in-indonesia_id164156
+8. https://www.phonearena.com/news/All-of-iPhone-SE-4-specs-leak-along-with-price-and-launch-month_id164152
+9. https://www.digitaltrends.com/mobile/google-gemini-is-good-but-this-update-could-make-it-downright-sci-fi/
+10. https://www.gsmarena.com/snapdragon_8_elite_and_slim_galaxy_z_fold_special_edition_official_week_43_in_review-news-65066.php
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3" length="2807793" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-28_noticiero_phones.mp3</guid>
+      <pubDate>lun, 28 oct 2024 08:08:28 GMT</pubDate>
+      <itunes:duration>00:15:35</itunes:duration>
+    </item>
+    <item>
+      <title> ¡Devs al rescate!  -  Tendencias tecnológicas, consejos y herramientas para tu próximo proyecto 🚀 </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy vamos a hablar de temas interesantes del mundo tech, desde el desarrollo web hasta la inteligencia artificial. En este video, exploraremos las diferencias entre Axios y Fetch para tus proyectos,  analizaremos cómo diseñar un sistema de incentivos perfecto, y te enseñaremos algunos trucos para aprovechar al máximo Google Sheets. Además, discutiremos el futuro de la computación en la nube, compararemos el rendimiento de RabbitMQ con Web MQTT Plugin frente a Node.js, y profundizaremos en la importancia de la psicología del usuario en el diseño de interfaces.¡No te pierdas nuestro análisis sobre la computación en la nube verde, una guía para principiantes sobre Terraform y AWS, y una advertencia sobre los peligros de la recursión en la unificación!Y finalmente, descubriremos cómo la inteligencia artificial puede optimizar el contenido en redes sociales. ¡Acompáñame en este recorrido informativo y apasionante! 
+Links:
+1. https://blog.codeparrot.ai/axios-vs-fetch-which-one-should-you-choose-for-your-project-c68081b22e25?source=rss------programming-5
+2. https://dev.to/anistark/designing-the-perfect-incentivised-system-part-1-31l
+3. https://dev.to/sfdcnews/5-ways-for-sf-dark-mode-customize-logins-google-sheets-hacks-for-data-management-3lkb
+4. https://dev.to/adityabhuyan/the-future-of-cloud-computing-predictions-for-the-next-decade-2fkb
+5. https://dev.to/arisdolanan/rabbitmq-with-web-mqtt-plugin-vs-nodejs-performance-and-memory-usage-comparison-4jea
+6. https://dev.to/info_generalhazedawn_a3d/the-importance-of-understanding-user-psychology-in-user-interface-design-mep
+7. https://dev.to/adityabhuyan/green-cloud-computing-how-the-cloud-can-help-save-the-planet-2kba
+8. https://dev.to/anhdung/for-dummies-what-is-terraform-how-to-use-it-with-aws-949
+9. https://www.philipzucker.com/unify/
+10. https://openpipe.ai/blog/hacker-news-rlhf-part-1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3" length="3484089" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_technology.mp3</guid>
+      <pubDate>mar, 29 oct 2024 07:20:27 GMT</pubDate>
+      <itunes:duration>00:19:21</itunes:duration>
+    </item>
+    <item>
+      <title> ¡Tecnología en Evolución! Novedades de Apple, Google, y Más 🤯 </title>
+      <description>¡Prepárate para un resumen de las últimas noticias del mundo de la tecnología! Desde nuevos lanzamientos de Apple y Google hasta filtraciones sobre el futuro de la inteligencia artificial, exploraremos los titulares más importantes de la semana. Descubriremos las novedades de Netflix, la revolución en el monitoreo hormonal, y las mejoras que se avecinan en los dispositivos de Apple y Google. ¡No te pierdas este análisis completo! 
+Links:
+1. https://www.phonearena.com/news/netflix-update-moments-feature_id164197
+2. https://www.phonearena.com/news/gemini-2.0-model-expected-december-arrival_id164200
+3. https://9to5mac.com/2024/10/28/m4-mac-mini-leak/
+4. https://www.gsmarena.com/google_pixel_10_and_pixel_11_camera_features_leak_including_a_big_hardware_upgrade-news-65104.php
+5. https://9to5mac.com/2024/10/28/m4-imac-8k-120/
+6. https://www.ubergizmo.com/2024/10/level-zero-health/?utm_source=mainrss
+7. https://9to5mac.com/2024/10/28/ios-18-2-release-date/
+8. https://www.sammobile.com/news/google-pixel-watch-custom-tensor-chip-samsung-lead/
+9. https://9to5mac.com/2024/10/28/apple-intelligence-is-here-iphone-ios-8-1/
+10. https://www.gsmarena.com/indonesia_bans_sale_and_use_of_iphone_16_series-news-65093.php
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3" length="2418453" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-29_noticiero_phones.mp3</guid>
+      <pubDate>mar, 29 oct 2024 07:23:09 GMT</pubDate>
+      <itunes:duration>00:13:26</itunes:duration>
+    </item>
+    <item>
+      <title> Postgres, AI, y Desarrollando con Pruebas: Un Viaje Tecnológico </title>
+      <description>¡Hola! En este video, exploramos una variedad de temas tecnológicos, desde el desarrollo de software hasta el análisis de datos. Cubriremos temas como la integración de Prisma con PostgreSQL, las mejores prácticas de pruebas de regresión visual, las herramientas y estrategias de monitoreo de PostgreSQL, y una introducción a la metodología ágil. También nos adentraremos en el manejo de excepciones en Java, la abstracción en la programación orientada a objetos, y cómo ejecutar modelos de lenguaje de gran tamaño en su propio servidor. Además, exploraremos el trabajo con bases de datos en Python, cómo usar OAuth con Go y la API de Spotify, y algunos ejemplos prácticos de procesamiento de datos con CSV. ¡Prepárense para un viaje lleno de información y aprendizaje! 
+Links:
+1. https://dev.to/awalias/prisma-postgres-4o09
+2. https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la
+3. https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf
+4. https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8
+5. https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk
+6. https://dev.to/arshisaxena26/abstraction-abstract-class-vs-interface-1dak
+7. https://dev.to/sonmusui/unleashing-the-power-of-ai-running-large-language-models-on-your-own-cloud-server-digital-ocean-48oi
+8. https://dev.to/info_generalhazedawn_a3d/working-with-databases-in-python-sqlite-and-postgresql-37fm
+9. https://dev.to/kishoreology/my-hacktoberfest-2024-journey-a-reflection-on-contributor-experience-47h
+10. https://dev.to/goodylili/oauth-tutorial-with-go-and-the-spotify-api-522n
+11. https://dev.to/esproc_spl/group-summarize-a-csv-file-eg68-4dao
+12. https://dev.to/judith677/85-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-continuous-link-relative-ratio-and-yoy-4n0g
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3" length="4053789" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-30_noticiero_technology.mp3</guid>
+      <pubDate>mié, 30 oct 2024 08:20:52 GMT</pubDate>
+      <itunes:duration>00:22:31</itunes:duration>
+    </item>
+    <item>
+      <title>¡Dominando el Mundo Tech! - De JavaScript a React y Más 🤯 </title>
+      <description>¡Hola a todos! En este video, te sumergimos en el fascinante mundo de la programación. Desde los conceptos básicos de JavaScript y Python hasta técnicas avanzadas para optimizar tu código, ¡tenemos algo para todos! Aprenderás sobre arrays en JavaScript, las ventajas de Set.has(), cómo encontrar la mediana de dos arrays ordenados, y mucho más.  También exploraremos la construcción de web scrapers con Python, el manejo de notificaciones push con React Native Firebase, y consejos para escribir código eficiente y legible en Python. ¡Prepárate para aprender, crecer y construir proyectos increíbles! 
+Links:
+1. https://dev.to/nozibul_islam_113b1d5334f/the-ultimate-guide-to-javascript-arrays-a-complete-method-list-50-topics-1e66
+2. https://dev.to/programminginblood/why-sethas-is-faster-than-arrayincludes-for-finding-items-4hh
+3. https://dev.to/munisekharudavalapati/4-median-of-two-sorted-arrays-4e0n
+4. https://dev.to/spandan_twts/my-hacktoberfest-2024-journey-as-a-maintainer-with-githubopenworld-6g4
+5. https://dev.to/virali_vasa_08dde36489ed6/troubleshooting-common-issues-of-react-native-firebase-cloud-messaging-36i3
+6. https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n
+7. https://dev.to/abdulla783/20-powerful-techniques-for-writing-efficient-and-readable-python-code-3fee
+8. https://dev.to/thetanweerali/easiest-way-to-handle-drop-down-menus-in-python-using-selenium--3hph
+9. https://dev.to/renish_ponkiya/mastering-algorithms-essential-concepts-every-computer-engineering-student-should-know-1h8e
+10. https://dev.to/diwakar_verma_381fc6e5e2f/learning-goes-hand-in-hand-with-building-my-journey-from-javascript-basics-to-real-world-projects-47p8
+11. https://dev.to/oyeaussie/php-ip2location-phpfirewall-501l
+12. https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3" length="3581289" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-10-31_noticiero_technology.mp3</guid>
+      <pubDate>jue, 31 oct 2024 07:47:05 GMT</pubDate>
+      <itunes:duration>00:19:53</itunes:duration>
+    </item>
+    <item>
+      <title>¡Domina las últimas tendencias en desarrollo web! 🚀 </title>
+      <description>¡Bienvenidos a un nuevo video! Hoy exploraremos un conjunto de temas de desarrollo web y tecnología que seguramente te serán de utilidad, desde la automatización de validación de API hasta la selección de frameworks de Node.js. Aprenderemos sobre patrones de programación avanzados, cómo evitar trampas comunes en JavaScript, las mejores herramientas para el desarrollo web rápido, y mucho más. ¡Prepárate para un viaje emocionante a través del mundo del desarrollo! 
+Links:
+1. https://dev.to/datapult/advanced-scheduling-patterns-with-demand-based-matching-skills-and-competencies-part-4-cj5
+2. https://dev.to/apilover/automate-api-response-validation-2i79
+3. https://dev.to/zenstok/how-to-avoid-the-single-threaded-trap-in-javascript-12ih
+4. https://dev.to/bardui/top-3-websites-to-copy-paste-tailwind-css-components-for-fast-track-ui-development-in-2024-4182
+5. https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj
+6. https://dev.to/stippy4real/app-service-131b
+7. https://dev.to/gameon_gameover_8f18dbb85/65-flutter-interview-questions-and-answers-for-all-levels-3n64
+8. https://dev.to/vipulkumarsviit/6-understanding-event-driven-architecture-1elo
+9. https://dev.to/datapult/once-you-have-the-schedule-visualize-it-right-and-how-we-built-ours-part-3-2bbh
+10. https://dev.to/okoye_ndidiamaka_5e3b7d30/introduction-to-apis-supercharging-your-web-development-journey-597m
+11. https://dev.to/arshisaxena26/polymorphism-decoding-method-overriding-in-java-1j01
+12. https://dev.to/shinetechsoftwareinc/how-to-choose-the-right-tech-stack-for-your-startup-5b42
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3" length="3813057" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-01_noticiero_technology.mp3</guid>
+      <pubDate>vie, 01 nov 2024 10:16:41 GMT</pubDate>
+      <itunes:duration>00:21:10</itunes:duration>
+    </item>
+    <item>
+      <title>¡Dominando Java, Keycloak y la Nube!  🚀 Halloween Coding &amp; Más 🎃 </title>
+      <description>¡Bienvenidos a un nuevo episodio donde exploramos las últimas tendencias en desarrollo y tecnología! Esta semana cubriremos temas tan interesantes como la programación con Java 8, la gestión de roles en Keycloak, la solución de problemas en Mac, la trazabilidad distribuida con Jaeger, la ética en la IA, la supervisión de la infraestructura, las nuevas características de Java 21, las redes para especialistas en la nube y una introducción a la API de administración de Keycloak. ¡Prepárense para aprender y discutir! 
+Links:
+1. https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec
+2. https://dev.to/dhanush9952/mastering-lambda-expressions-in-java-8-a-comprehensive-guide-27bf
+3. https://dev.to/paradox007/day-3-step-2ip8
+4. https://dev.to/mahamadjon000/else-if-4kbh
+5. https://dev.to/im_santhiya_guna/handling-nested-roles-in-keycloak-3lfk
+6. https://dev.to/shawon/how-to-fix-lulus-network-extension-is-not-running-on-mac-4j0g
+7. https://dev.to/subham_nandi/day-6-distributed-tracing-with-jaeger-5dh4
+8. https://dev.to/siddharthbhalsod/ai-ethics-and-regulation-navigating-the-future-of-technology-o72
+9. https://dev.to/muneeb_akram/introducing-dependency-drift-monitor-keep-your-infrastructure-in-check-4fkk
+10. https://dev.to/utteshkumar/java-21-virtual-threads-revolutionizing-concurrency-1li0
+11. https://dev.to/574n13y/networking-essentials-for-cloud-specialists-16c
+12. https://dev.to/im_santhiya_guna/introduction-to-keycloak-admin-api-273m
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3" length="4251429" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-02_noticiero_technology.mp3</guid>
+      <pubDate>sáb, 02 nov 2024 09:10:00 GMT</pubDate>
+      <itunes:duration>00:23:37</itunes:duration>
+    </item>
     <item>
       <title> 🔥  Las Mejores Herramientas y Recursos para Desarrolladores en 2024  🔥 </title>
       <description>¡Hola a todos! En este video, exploramos las últimas noticias del mundo de la tecnología, incluyendo: herramientas para simular APIs, técnicas para reutilizar lógica de excepciones en Python, comparaciones entre PWA y apps nativas, recursos para aprender Node.js, solución de problemas con Power Automate, construcción de apps web escalables con Next.js 15,  el servidor web Gunicorn para aplicaciones Python, el lanzamiento de AWS Valkey, una guía paso a paso para crear APIs, protección contra bots con SafeLine 7.0 y una alternativa al plugin Thunder Client para VS Code. ¡No te lo pierdas! 
@@ -460,7 +905,7 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3</guid>
       <pubDate>lun, 04 nov 2024 08:38:06 GMT</pubDate>
       <itunes:duration>00:21:36</itunes:duration>
-      </item>
+    </item>
     <item>
       <title>🚀  De Cero a Experto: Lo Último en Desarrollo con Tecnología de Vanguardia </title>
       <description>¡Hola a todos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las últimas tendencias en desarrollo web hasta las mejores prácticas para el diseño de sistemas. Hablaremos de las diferencias entre los chips RK3588 y RK3576, te enseñaremos cómo usar Tailwind CSS para diseños increíbles y te guiaremos por los beneficios de Docker para entornos de desarrollo modernos. También exploraremos conceptos como el diseño de sistemas, la arquitectura de eventos, las pruebas Shift-Left, la consulta de DynamoDB con Athena y mucho más. ¡Prepárate para aprender sobre temas interesantes y herramientas esenciales en el mundo tecnológico! 
@@ -482,14 +927,48 @@ Links:
       <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3</guid>
       <pubDate>mar, 05 nov 2024 08:40:33 GMT</pubDate>
       <itunes:duration>00:23:48</itunes:duration>
-      </item>
+    </item>
+  <item>
+  </channel>
+</rss>separated-string-70-3i65
+2. https://dev.to/apilover/10-best-api-mocking-tools-2024-review-30f3
+3. https://dev.to/__e19a78719dbdd7bc958/reuse-the-same-exception-logic-in-python-1bd1
+4. https://dev.to/pizucoder/pwas-vs-native-apps-and-websites-choosing-the-right-technology-for-the-best-user-experience-1fa6
+5. https://dev.to/devshefali/11-github-repositories-to-learn-nodejs-4bch
+6. https://dev.to/wyattdave/power-automate-how-to-fix-missing-dependencies-m5i
+7. https://dev.to/moizlokhandwala09/building-scalable-web-apps-with-nextjs-15-a-complete-guide-to-the-app-router-and-typescript-3e0j
+8. https://dev.to/srijond/understanding-gunicorn-a-web-server-for-python-applications-3348
+9. https://dev.to/rksalo88/aws-valkey-now-available-on-amazon-elasticache-and-memorydb-1kbj
+10. https://dev.to/getambassador2024/how-to-build-an-api-a-step-by-step-guide-to-api-development-gpp
+11. https://dev.to/carrie_luo1/anti-bot-protection-with-safeline-70-5bmm
+12. https://dev.to/eleanor_fairfax_5ce95399d/a-better-vs-code-plugin-than-thunder-client-3go2
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3" length="3888549" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-04_noticiero_technology.mp3</guid>
+      <pubDate>lun, 04 nov 2024 08:38:06 GMT</pubDate>
+      <itunes:duration>00:21:36</itunes:duration>
+    </item>
     <item>
-      <title>Tecnologías, Eficiencia y Noticias Globales</title>
-      <description>El presidente de Corea del Sur declara el estado de emergencia y la ley marcial.  Analizaremos las implicaciones de esta decisión y exploraremos las posibles causas detrás de esta medida drástica.</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-12-03_noticiero_technology.mp3" length="0" type="audio/mpeg" />
-      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-12-03_noticiero_technology.mp3</guid>
-      <pubDate>Tue, 03 Dec 2024 15:27:42 GMT</pubDate>
-      <itunes:duration>00:22:22</itunes:duration>
-      </item>
-    </channel>
-  </rss>
+      <title>🚀  De Cero a Experto: Lo Último en Desarrollo con Tecnología de Vanguardia </title>
+      <description>¡Hola a todos! En este video, vamos a explorar una variedad de temas tecnológicos, desde las últimas tendencias en desarrollo web hasta las mejores prácticas para el diseño de sistemas. Hablaremos de las diferencias entre los chips RK3588 y RK3576, te enseñaremos cómo usar Tailwind CSS para diseños increíbles y te guiaremos por los beneficios de Docker para entornos de desarrollo modernos. También exploraremos conceptos como el diseño de sistemas, la arquitectura de eventos, las pruebas Shift-Left, la consulta de DynamoDB con Athena y mucho más. ¡Prepárate para aprender sobre temas interesantes y herramientas esenciales en el mundo tecnológico! 
+Links:
+1. https://dev.to/as-jackson/a-comparative-analysis-between-rk3588-and-rk3576-chips-unveiling-the-technological-distinctions-5ci1
+2. https://dev.to/bardui/all-the-colors-you-need-with-tailwind-css-2lp1
+3. https://dev.to/adityabhuyan/why-docker-is-essential-for-modern-development-environments-and-its-alternatives-6k7
+4. https://dev.to/derek-compdf/integrate-pdf-conversion-by-deploying-open-source-stirling-pdf-with-docker-4o15
+5. https://dev.to/madina1575/switch-statement-5fgd
+6. https://dev.to/_32a24721f9b5e088c539d/napi-rsde-shi-yong-4087
+7. https://dev.to/nishantnaithani/simplifying-system-design-scaling-vertical-vs-horizontal-4295
+8. https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g
+9. https://dev.to/adityabhuyan/shift-left-testing-the-key-to-accelerating-quality-in-agile-development-15c9
+10. https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c
+11. https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e
+12. https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d
+</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3" length="4284261" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-11-05_noticiero_technology.mp3</guid>
+      <pubDate>mar, 05 nov 2024 08:40:33 GMT</pubDate>
+      <itunes:duration>00:23:48</itunes:duration>
+    </item>
+  </channel>
+</rss>
