@@ -1,0 +1,7 @@
+Catch: Hola Halt. Hoy es 27 de octubre de 2024.
+
+Halt: Hola Catch.  Hoy cubriremos temas que van desde la creciente preocupación por la IA hasta un nuevo descubrimiento arqueológico en Egipto y el lanzamiento del nuevo cohete de SpaceX.
+
+Catch:  Un día lleno de avances tecnológicos, misterios históricos y exploración espacial. ¡Comencemos!
+{"noticias": [{},{},{}]}Soy Halt, y junto con Catch, les agradecemos su atención en este noticiero. Mañana a las 8 am los esperamos con más noticias. Que tengan un gran día. ¡Hasta la próxima!
+Catch:¡Hasta mañana!
