@@ -491,5 +491,13 @@ Links:
       <pubDate>Tue, 03 Dec 2024 15:35:39 GMT</pubDate>
       <itunes:duration>00:22:22</itunes:duration>
       </item>
+    <item>
+      <title>Gestión de la nube, secretos y código limpio: Mejores prácticas en desarrollo e infraestructuras.</title>
+      <description>En este video, analizamos la importancia del Software Acceptance Testing (SAT) para garantizar que una aplicación esté lista para su lanzamiento.  Revisaremos varios titulares de noticias recientes que ilustran las consecuencias de un SAT deficiente, mostrando cómo un testing exhaustivo puede prevenir costosos errores y fallos post-lanzamiento.  Aprenderás sobre las diferentes técnicas de SAT y su impacto en la satisfacción del cliente y el éxito del software.</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2024-12-09_noticiero_technology.mp3" length="2760921" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2024-12-09_noticiero_technology.mp3</guid>
+      <pubDate>lun, 09 dic 2024 08:15:27 GMT</pubDate>
+      <itunes:duration>00:15:20</itunes:duration>
+      </item>
     </channel>
   </rss>
