@@ -499,5 +499,13 @@ Links:
       <pubDate>lun, 09 dic 2024 08:15:27 GMT</pubDate>
       <itunes:duration>00:15:20</itunes:duration>
       </item>
+    <item>
+      <title>Tecnologías, herramientas y tendencias del desarrollo web</title>
+      <description>En este video, te mostraré cómo asegurar tu VPC de AWS utilizando subredes públicas y privadas. Aprenderás las mejores prácticas para configurar una infraestructura segura y robusta en la nube de Amazon Web Services.  Cubriremos la configuración y el uso efectivo de subredes públicas y privadas para proteger tus recursos y controlar el acceso a tu red. ¡No te lo pierdas!</description>
+      <enclosure url="/home/danielhttps://danielnunezcano.github.io/haltandcatch/audio/2024-12-11_noticiero_technology.mp3" length="3850533" type="audio/mpeg" />
+      <guid>/home/danielhttps://danielnunezcano.github.io/haltandcatch/audio/2024-12-11_noticiero_technology.mp3</guid>
+      <pubDate>mié, 11 dic 2024 09:20:40 GMT</pubDate>
+      <itunes:duration>00:21:23</itunes:duration>
+      </item>
     </channel>
   </rss>
