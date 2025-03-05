@@ -1,7 +1,0 @@
-Catch: Hola Halt. Hoy es 04 de marzo de 2025.
-
-Halt: Hola Catch.  Parece que tenemos un buen puñado de temas para discutir hoy: el impacto de las APIs, la programación en Rust, la automatización con Python, el software libre, las mejores prácticas en AWS, las tendencias en desarrollo móvil, la exploración de bioestructuras en microgravedad por DARPA y la importancia de la contabilidad en la expansión de plantillas.
-
-Catch: ¡Comencemos!
-{"noticias": [{},{},{},{},{},{},{},{},{},{]}Ha sido un placer compartir estas noticias con ustedes. Soy Halt, y junto con Catch, les decimos: ¡Hasta la próxima emisión, cuídense! Nos escuchamos mañana a partir de las 8 am con más informativos.
-Catch:¡Hasta mañana!
