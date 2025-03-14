@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss
-  xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Halt And Catch</title>
     <link>https://github.com/danielnunezcano/haltandcatch/</link>
@@ -16,18 +15,11 @@
     </ns0:owner>
     <ns0:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
     <ns0:category text="Technology" />
-    <item>
-      <title>Seguridad informática, IA y diseño de sistemas: Análisis de las últimas tendencias</title>
-      <description>En este podcast, analizamos las implicaciones éticas del *spoofing* de IP y su examen técnico para profesionales de seguridad.  Exploramos cómo simular conexiones lentas con Network Link Conditioner.  Profundizamos en el diseño de sistemas de bajo nivel a través de un ejemplo práctico: la resolución del "problema del estacionamiento".  Además, discutimos el auge de la IA para la codificación con Cursor AI y, finalmente, examinamos la seguridad de deshabilitar el servicio ejecutable antimalware.
+  <item><title>Resumen Semanal de Noticias: Tecnología, Seguridad y Aventuras</title><description>En este episodio del resumen semanal de noticias de seguridad, cubrimos temas relevantes del 14 de marzo de 2025. Analizaremos la controvertida decisión de Google de rastrear todos los dispositivos de sus usuarios.  Además, exploraremos el protocolo de contexto de modelo (#mcp) y su integración en n8n para la automatización.  Aprenderemos cómo construir un juego de memoria usando IA en tu navegador.  Finalmente, daremos consejos de seguridad para la escalada nocturna, con la perspectiva de expertos como César Alcántara. ¡No te lo pierdas!
 Enlaces:
-1. Ethical Implications of IP Spoofing: A Technical Examination for Security Practitioners - https://dev.to/micromax/ethical-implications-of-ip-spoofing-a-technical-examination-for-security-practitioners-10ah
-2. Network Link Conditioner: Simulando Conexões Lentas - https://dev.to/hjdesigner/network-link-conditioner-simulando-conexoes-lentas-20o3
-3. Low Level System Design Interview: Solving the Parking Lot Problem in 45 Minutes - https://code.likeagirl.io/low-level-system-design-interview-solving-the-parking-lot-problem-in-45-minutes-bc9626db0473?source=rss------programming-5
-4. The Rise of Cursor AI: The Future of AI-Powered Coding - https://dev.to/aryan015/the-rise-of-cursor-ai-the-future-of-ai-powered-coding-hde
-5. Understanding Antimalware Service Executable: Is It Safe to Disable? - https://dev.to/hardy_mervana/understanding-antimalware-service-executable-is-it-safe-to-disable-57e2</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3" length="0" type="audio/mpeg" />
-      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3</guid>
-      <pubDate>2025-03-14</pubDate>
-    </item>
-  </channel>
+1. Security news weekly round-up - 14th March 2025 - https://dev.to/ziizium/security-news-weekly-round-up-14th-march-2025-2mai
+2. Google Starts Tracking All Your Devices . - https://medium.com/@mtomcrack/google-starts-tracking-all-your-devices-f4056eeb5485?source=rss------programming-5
+3. Supercharge Your Automation: Integrating Model Context Protocol (#mcp) in n8n - https://dev.to/nerding-io/supercharge-your-automation-integrating-model-context-protocol-mcp-in-n8n-cll
+4. Unleash the Power of AI: Build a Memory Game in Your Browser - https://dev.to/nerding-io/unleash-the-power-of-ai-build-a-memory-game-in-your-browser-3l5l
+5. Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara - https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3</guid><pubDate>2025-03-14</pubDate><itunes:duration /><itunes:image href="https://danielnunezcano.github.io/haltandcatch/images/2025-03-14_noticiero_technology.png" /></item></channel>
 </rss>
