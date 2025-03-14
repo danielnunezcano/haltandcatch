@@ -1,25 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Halt And Catch</title>
     <link>https://github.com/danielnunezcano/haltandcatch/</link>
     <description>¡Bienvenidos a Halt And Catch! Subimos dos episodios diarios para mantenerte al tanto de lo último en el mundo de la tecnología. En el primer episodio del día, te traemos las noticias más importantes del ámbito tecnológico: innovaciones, avances y tendencias que están cambiando el mundo. En el segundo episodio, te mantenemos al día con todas las novedades sobre teléfonos móviles: lanzamientos, rumores, análisis y mucho más. ¡No te pierdas ningún detalle y únete a nuestra comunidad de entusiastas de la tecnología!</description>
     <language>es-es</language>
-    <ns0:author>Halt And Catch</ns0:author>
-    <ns0:subtitle>Noticias diarias de tecnología y móviles.</ns0:subtitle>
-    <ns0:summary>Halt And Catch es tu fuente diaria de noticias tecnológicas. Todos los días cubrimos las novedades más importantes en tecnología, incluyendo lanzamientos de dispositivos, avances en software, inteligencia artificial, y mucho más. Además, te traemos toda la información que necesitas sobre el mundo de los teléfonos móviles, desde los rumores hasta los análisis más detallados. ¡No te pierdas nuestros episodios para mantenerte al día en este emocionante mundo!</ns0:summary>
-    <ns0:explicit>no</ns0:explicit>
-    <ns0:owner>
-      <ns0:name>Halt And Catch</ns0:name>
-      <ns0:email>haltandcatchia@gmail.com</ns0:email>
-    </ns0:owner>
-    <ns0:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
-    <ns0:category text="Technology" />
-  <item><title>Resumen Semanal de Noticias: Tecnología, Seguridad y Aventuras</title><description>En este episodio del resumen semanal de noticias de seguridad, cubrimos temas relevantes del 14 de marzo de 2025. Analizaremos la controvertida decisión de Google de rastrear todos los dispositivos de sus usuarios.  Además, exploraremos el protocolo de contexto de modelo (#mcp) y su integración en n8n para la automatización.  Aprenderemos cómo construir un juego de memoria usando IA en tu navegador.  Finalmente, daremos consejos de seguridad para la escalada nocturna, con la perspectiva de expertos como César Alcántara. ¡No te lo pierdas!
+    <itunes:author>Halt And Catch</itunes:author>
+    <itunes:subtitle>Noticias diarias de tecnología y móviles.</itunes:subtitle>
+    <itunes:summary>Halt And Catch es tu fuente diaria de noticias tecnológicas...</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Halt And Catch</itunes:name>
+      <itunes:email>haltandcatchia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
+    <itunes:category text="Technology" />
+    
+    <item>
+      <title>Resumen Semanal de Noticias: Tecnología, Seguridad y Aventuras</title>
+      <description>En este episodio del resumen semanal de noticias de seguridad...</description>
+      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3" length="0" type="audio/mpeg" />
+      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3</guid>
+      <pubDate>2025-03-14</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-14_noticiero_technology.png?raw=true" />
+    </item>
+  <item><title>Champions, polémica y futuro incierto: Resumen de la semana deportiva</title><description>En este podcast analizamos las últimas noticias del mundo deportivo: el Real Madrid y su lucrativa victoria en la Champions League; la adquisición de los derechos de la Champions por Relevent; las polémicas declaraciones de Van Basten sobre el penalti a Julián Álvarez; las dudas de Verstappen y Red Bull sobre su competitividad; y los movimientos en el mercado de fichajes con Asensio, Huijsen, Iñigo Martínez e Isco como protagonistas. ¡No te pierdas nuestro análisis!
 Enlaces:
-1. Security news weekly round-up - 14th March 2025 - https://dev.to/ziizium/security-news-weekly-round-up-14th-march-2025-2mai
-2. Google Starts Tracking All Your Devices . - https://medium.com/@mtomcrack/google-starts-tracking-all-your-devices-f4056eeb5485?source=rss------programming-5
-3. Supercharge Your Automation: Integrating Model Context Protocol (#mcp) in n8n - https://dev.to/nerding-io/supercharge-your-automation-integrating-model-context-protocol-mcp-in-n8n-cll
-4. Unleash the Power of AI: Build a Memory Game in Your Browser - https://dev.to/nerding-io/unleash-the-power-of-ai-build-a-memory-game-in-your-browser-3l5l
-5. Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara - https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3</guid><pubDate>2025-03-14</pubDate><itunes:duration /><itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-14_noticiero_technology.png?raw=true" /></item></channel>
+1. El Madrid vuelve a forrarse con la Champions - https://www.marca.com/futbol/real-madrid/2025/03/14/madrid-vuelve-forrarse-champions.html
+2. Relevent se hace con los derechos de la Champions - https://www.marca.com/futbol/champions-league/2025/03/14/relevent-derechos-champions.html
+3. Van Basten se pronuncia sobre el penalti de Julián: "La UEFA tiene la obligación de arreglar esto" - https://www.marca.com/futbol/atletico/2025/03/14/basten-pronuncia-sobre-penalti-julian-uefa-obligacion-arreglar-esto.html
+4. ¿Crisis para Verstappen y Red Bull?: "Nos falta algo para luchar arriba" - https://www.marca.com/motor/formula1/gp-australia/2025/03/14/crisis-verstappen-red-bull-falta-luchar.html
+5. Asencio adelanta a Huijsen, regresa Iñigo Martínez y no entra Isco - https://www.marca.com/futbol/seleccion/2025/03/14/asencio-adelanta-huijsen-regresa-inigo-martinez-entra-isco.html</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3</guid><pubDate>2025-03-15</pubDate><itunes:duration /><itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-15_noticiero_sport.png?raw=true" /></item></channel>
 </rss>
