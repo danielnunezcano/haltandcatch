@@ -15,21 +15,17 @@
     </itunes:owner>
     <itunes:image href="https://danielnunezcano.github.io/haltandcatch/halt_cath.jpg" />
     <itunes:category text="Technology" />
-    
-    <item>
-      <title>Resumen Semanal de Noticias: Tecnología, Seguridad y Aventuras</title>
-      <description>En este episodio del resumen semanal de noticias de seguridad...</description>
-      <enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3" length="0" type="audio/mpeg" />
-      <guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-14_noticiero_technology.mp3</guid>
-      <pubDate>2025-03-14</pubDate>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-14_noticiero_technology.png?raw=true" />
-    </item>
   <item><title>Champions, polémica y futuro incierto: Resumen de la semana deportiva</title><description>En este podcast analizamos las últimas noticias del mundo deportivo: el Real Madrid y su lucrativa victoria en la Champions League; la adquisición de los derechos de la Champions por Relevent; las polémicas declaraciones de Van Basten sobre el penalti a Julián Álvarez; las dudas de Verstappen y Red Bull sobre su competitividad; y los movimientos en el mercado de fichajes con Asensio, Huijsen, Iñigo Martínez e Isco como protagonistas. ¡No te pierdas nuestro análisis!
 Enlaces:
 1. El Madrid vuelve a forrarse con la Champions - https://www.marca.com/futbol/real-madrid/2025/03/14/madrid-vuelve-forrarse-champions.html
 2. Relevent se hace con los derechos de la Champions - https://www.marca.com/futbol/champions-league/2025/03/14/relevent-derechos-champions.html
 3. Van Basten se pronuncia sobre el penalti de Julián: "La UEFA tiene la obligación de arreglar esto" - https://www.marca.com/futbol/atletico/2025/03/14/basten-pronuncia-sobre-penalti-julian-uefa-obligacion-arreglar-esto.html
 4. ¿Crisis para Verstappen y Red Bull?: "Nos falta algo para luchar arriba" - https://www.marca.com/motor/formula1/gp-australia/2025/03/14/crisis-verstappen-red-bull-falta-luchar.html
-5. Asencio adelanta a Huijsen, regresa Iñigo Martínez y no entra Isco - https://www.marca.com/futbol/seleccion/2025/03/14/asencio-adelanta-huijsen-regresa-inigo-martinez-entra-isco.html</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3</guid><pubDate>2025-03-15</pubDate><itunes:duration /><itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-15_noticiero_sport.png?raw=true" /></item></channel>
+5. Asencio adelanta a Huijsen, regresa Iñigo Martínez y no entra Isco - https://www.marca.com/futbol/seleccion/2025/03/14/asencio-adelanta-huijsen-regresa-inigo-martinez-entra-isco.html</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_sport.mp3</guid><pubDate>2025-03-15</pubDate><itunes:duration /><itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-15_noticiero_sport.png?raw=true" /></item><item><title>Tecnologías Emergentes, Ciberseguridad y Desarrollo Web: Un Resumen Semanal</title><description>En este episodio, exploramos las últimas tendencias en tecnología.  Analizaremos cómo las grandes empresas tecnológicas manejan incidentes, te guiaremos en la creación de un sistema de autenticación personalizado en Django, y desentrañaremos cómo la IA está revolucionando el web scraping.  Además,  discutiremos la desnormalización para optimizar el rendimiento de aplicaciones y te daremos un resumen de las noticias más importantes en seguridad informática de la semana del 14 de marzo de 2025. ¡Prepárate para una dosis de conocimiento tecnológico!
+Enlaces:
+1. What Big Tech Companies Can Teach Us About Incident Management - https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof
+2. How to Build a Custom Django Authentication System: A Comprehensive Guide. - https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de
+3. How AI is Revolutionizing Web Scraping: Techniques and Code Examples - https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1
+4. Aplicações mais rápidas com desnormalização - https://dev.to/guil95/aplicacoes-mais-rapidas-com-desnormalizacao-2em1
+5. Security news weekly round-up - 14th March 2025 - https://dev.to/ziizium/security-news-weekly-round-up-14th-march-2025-2mai</description><enclosure url="https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_technology.mp3" length="0" type="audio/mpeg" /><guid>https://danielnunezcano.github.io/haltandcatch/audio/2025-03-15_noticiero_technology.mp3</guid><pubDate>2025-03-15</pubDate><itunes:duration /><itunes:image href="https://github.com/danielnunezcano/haltandcatch/blob/main/images/2025-03-15_noticiero_technology.png?raw=true" /></item></channel>
 </rss>
